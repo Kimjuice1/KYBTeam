@@ -8,4 +8,4 @@
 
 팀원 : 이지훈 윤찬솔 박세호 조재현 이정환
 
-<img src ="KakaoTalk_20250513_145008292">
+![KakaoTalk_20250513_145008292](https://github.com/user-attachments/assets/a196e250-8fd0-482d-ad7e-b134f0dbc1c9)
