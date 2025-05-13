@@ -8,4 +8,7 @@
 
 팀원 : 이지훈 윤찬솔 박세호 조재현 이정환
 
+### 실행화면
 <img src="https://github.com/user-attachments/assets/a196e250-8fd0-482d-ad7e-b134f0dbc1c9" width="400"/>
+
+### 회의록
