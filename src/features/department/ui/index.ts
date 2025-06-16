@@ -1,0 +1,1 @@
+export { DepartmentSection } from './DepartmentSection.tsx'

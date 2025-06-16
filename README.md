@@ -1,68 +1,54 @@
-# KYBTeam
+# React + TypeScript + Vite
 
-프로젝트 개요 : 통합 자격증 어플리케이션
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-팀 : 김용빈팀(KYBTeam)
+Currently, two official plugins are available:
 
-팀장 : 김주환
-팀원 : 이지훈 이정환 조재현 윤찬솔 박세호
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
----
+## Expanding the ESLint configuration
 
-  ## 👥 팀원 역할
+If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
 
-  | 이름 | 역할 |
-  |------|------|
-  | 김주환 | 팀 총괄, Spring Boot 기반 학과 페이지 백엔드 개발 |
-  | 이지훈 | Android Webview 기반 UI/UX 설계 및 자격증 상세 페이지 개발 |
-  | 이정환 | 프로젝트 일정 및 GitHub 관리, SRS 문서 작성 |
-  | 조재현 | Spring Boot 기반 학과 페이지 백엔드 개발 |
-  | 윤찬솔 | 자격증 데이터 수집·정제(DB 구축), React 웹 개발, 메인 페이지 백엔드 개발 |
-  | 박세호 | Spring Boot 기반 메인 페이지 백엔드 개발 |
+```js
+export default tseslint.config({
+  extends: [
+    // Remove ...tseslint.configs.recommended and replace with this
+    ...tseslint.configs.recommendedTypeChecked,
+    // Alternatively, use this for stricter rules
+    ...tseslint.configs.strictTypeChecked,
+    // Optionally, add this for stylistic rules
+    ...tseslint.configs.stylisticTypeChecked,
+  ],
+  languageOptions: {
+    // other options...
+    parserOptions: {
+      project: ['./tsconfig.node.json', './tsconfig.app.json'],
+      tsconfigRootDir: import.meta.dirname,
+    },
+  },
+})
+```
 
----
+You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
 
-  ## 🛠️ 기술 스택
+```js
+// eslint.config.js
+import reactX from 'eslint-plugin-react-x'
+import reactDom from 'eslint-plugin-react-dom'
 
-  - **Frontend**: React (Vite 기반 SPA, 반응형 UI 설계)
-  - **Backend**: Spring Boot + PostgreSQL
-  - **Mobile**: Android WebView
-  - **배포 환경**:
-    - 웹: GitHub Pages
-    - 모바일: APK (Android Studio 빌드)
-    - 백엔드: Render 또는 Railway (Spring Boot 서버)
-
----
-
- ## 실행화면
-
-<img src="https://github.com/user-attachments/assets/a196e250-8fd0-482d-ad7e-b134f0dbc1c9" width="400"/>
-
----
-
-  ## 📌 핵심 기능 요약
-
-  - 학과별 관련 자격증 추천 기능 제공
-  - 자격증 상세 정보 제공 (시행기관, 시험일정, 응시자격, 모집정보 등)
-  - 모바일 친화적 UI 및 WebView 기반 안드로이드 앱 제공
-  - 수집 데이터 기반 PostgreSQL 데이터베이스 구축
-  - REST API 기반 프론트-백엔드 연동 설계
-
----
-
-  ## 🧾 회의록 바로가기( 주차별로 이동 )
-
-  - [회의록_2025-03-16.md](./KYB_회의록_정리/회의록_2025-03-16.md)
-  - [회의록_2025-03-23.md](./KYB_회의록_정리/회의록_2025-03-23.md)
-  - [회의록_2025-03-30.md](./KYB_회의록_정리/회의록_2025-03-30.md)
-  - [회의록_2025-04-06.md](./KYB_회의록_정리/회의록_2025-04-06.md)
-  - [회의록_2025-04-13.md](./KYB_회의록_정리/회의록_2025-04-13.md)
-  - [회의록_2025-04-20.md](./KYB_회의록_정리/회의록_2025-04-20.md)
-  - [회의록_2025-04-27.md](./KYB_회의록_정리/회의록_2025-04-27.md)
-  - [회의록_2025-05-04.md](./KYB_회의록_정리/회의록_2025-05-04.md)
-  - [회의록_2025-05-11.md](./KYB_회의록_정리/회의록_2025-05-11.md)
-  - [회의록_2025-05-18.md](./KYB_회의록_정리/회의록_2025-05-18.md)
-  - [회의록_2025-05-25.md](./KYB_회의록_정리/회의록_2025-05-25.md)
-  - [회의록_2025-06-01.md](./KYB_회의록_정리/회의록_2025-06-01.md)
-  - [회의록_2025-06-08.md](./KYB_회의록_정리/회의록_2025-06-08.md)
-  - [회의록_2025-06-15.md](./KYB_회의록_정리/회의록_2025-06-15.md)
+export default tseslint.config({
+  plugins: {
+    // Add the react-x and react-dom plugins
+    'react-x': reactX,
+    'react-dom': reactDom,
+  },
+  rules: {
+    // other rules...
+    // Enable its recommended typescript rules
+    ...reactX.configs['recommended-typescript'].rules,
+    ...reactDom.configs.recommended.rules,
+  },
+})
+```

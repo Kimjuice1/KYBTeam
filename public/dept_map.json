@@ -1,0 +1,218 @@
+[
+  {
+    "dept_map_id": 2,
+    "faculty_id": null,
+    "department_id": 1,
+    "major_id": null
+  },
+  {
+    "dept_map_id": 19,
+    "faculty_id": 1,
+    "department_id": 2,
+    "major_id": 1
+  },
+  {
+    "dept_map_id": 20,
+    "faculty_id": 1,
+    "department_id": 2,
+    "major_id": 2
+  },
+  {
+    "dept_map_id": 21,
+    "faculty_id": 1,
+    "department_id": 3,
+    "major_id": 3
+  },
+  {
+    "dept_map_id": 22,
+    "faculty_id": 1,
+    "department_id": 3,
+    "major_id": 4
+  },
+  {
+    "dept_map_id": 23,
+    "faculty_id": 1,
+    "department_id": 4,
+    "major_id": 5
+  },
+  {
+    "dept_map_id": 24,
+    "faculty_id": 1,
+    "department_id": 4,
+    "major_id": 6
+  },
+  {
+    "dept_map_id": 25,
+    "faculty_id": 1,
+    "department_id": 4,
+    "major_id": 7
+  },
+  {
+    "dept_map_id": 26,
+    "faculty_id": 2,
+    "department_id": 5,
+    "major_id": 8
+  },
+  {
+    "dept_map_id": 27,
+    "faculty_id": 2,
+    "department_id": 5,
+    "major_id": 9
+  },
+  {
+    "dept_map_id": 28,
+    "faculty_id": 2,
+    "department_id": 6,
+    "major_id": 10
+  },
+  {
+    "dept_map_id": 29,
+    "faculty_id": 2,
+    "department_id": 6,
+    "major_id": 11
+  },
+  {
+    "dept_map_id": 30,
+    "faculty_id": 2,
+    "department_id": 7,
+    "major_id": 12
+  },
+  {
+    "dept_map_id": 31,
+    "faculty_id": 2,
+    "department_id": 7,
+    "major_id": 13
+  },
+  {
+    "dept_map_id": 32,
+    "faculty_id": 2,
+    "department_id": 7,
+    "major_id": 14
+  },
+  {
+    "dept_map_id": 33,
+    "faculty_id": 2,
+    "department_id": 8,
+    "major_id": 15
+  },
+  {
+    "dept_map_id": 34,
+    "faculty_id": 2,
+    "department_id": 8,
+    "major_id": 16
+  },
+  {
+    "dept_map_id": 35,
+    "faculty_id": 3,
+    "department_id": 9,
+    "major_id": null
+  },
+  {
+    "dept_map_id": 36,
+    "faculty_id": 3,
+    "department_id": 10,
+    "major_id": null
+  },
+  {
+    "dept_map_id": 37,
+    "faculty_id": 3,
+    "department_id": 11,
+    "major_id": null
+  },
+  {
+    "dept_map_id": 38,
+    "faculty_id": 3,
+    "department_id": 12,
+    "major_id": null
+  },
+  {
+    "dept_map_id": 39,
+    "faculty_id": 3,
+    "department_id": 13,
+    "major_id": null
+  },
+  {
+    "dept_map_id": 40,
+    "faculty_id": 4,
+    "department_id": 14,
+    "major_id": 17
+  },
+  {
+    "dept_map_id": 41,
+    "faculty_id": 4,
+    "department_id": 14,
+    "major_id": 18
+  },
+  {
+    "dept_map_id": 42,
+    "faculty_id": 4,
+    "department_id": 15,
+    "major_id": 19
+  },
+  {
+    "dept_map_id": 43,
+    "faculty_id": 4,
+    "department_id": 15,
+    "major_id": 20
+  },
+  {
+    "dept_map_id": 44,
+    "faculty_id": 4,
+    "department_id": 16,
+    "major_id": 21
+  },
+  {
+    "dept_map_id": 45,
+    "faculty_id": 4,
+    "department_id": 16,
+    "major_id": 22
+  },
+  {
+    "dept_map_id": 46,
+    "faculty_id": 4,
+    "department_id": 16,
+    "major_id": 23
+  },
+  {
+    "dept_map_id": 47,
+    "faculty_id": 4,
+    "department_id": 17,
+    "major_id": 24
+  },
+  {
+    "dept_map_id": 48,
+    "faculty_id": 4,
+    "department_id": 17,
+    "major_id": 25
+  },
+  {
+    "dept_map_id": 49,
+    "faculty_id": 5,
+    "department_id": 18,
+    "major_id": 26
+  },
+  {
+    "dept_map_id": 50,
+    "faculty_id": 5,
+    "department_id": 18,
+    "major_id": 27
+  },
+  {
+    "dept_map_id": 51,
+    "faculty_id": 5,
+    "department_id": 19,
+    "major_id": 28
+  },
+  {
+    "dept_map_id": 52,
+    "faculty_id": 5,
+    "department_id": 19,
+    "major_id": 29
+  },
+  {
+    "dept_map_id": 53,
+    "faculty_id": 5,
+    "department_id": 20,
+    "major_id": null
+  }
+]

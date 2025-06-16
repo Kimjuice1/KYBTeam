@@ -1,0 +1,3067 @@
+[
+  {
+    "certificate_id": 1,
+    "certificate_name": "가스기술사",
+    "jmcd": "0752"
+  },
+  {
+    "certificate_id": 2,
+    "certificate_name": "건설기계기술사",
+    "jmcd": "0080"
+  },
+  {
+    "certificate_id": 3,
+    "certificate_name": "건설안전기술사",
+    "jmcd": "0740"
+  },
+  {
+    "certificate_id": 4,
+    "certificate_name": "건축구조기술사",
+    "jmcd": "0490"
+  },
+  {
+    "certificate_id": 5,
+    "certificate_name": "건축기계설비기술사",
+    "jmcd": "0501"
+  },
+  {
+    "certificate_id": 6,
+    "certificate_name": "건축시공기술사",
+    "jmcd": "0510"
+  },
+  {
+    "certificate_id": 7,
+    "certificate_name": "건축전기설비기술사",
+    "jmcd": "0502"
+  },
+  {
+    "certificate_id": 8,
+    "certificate_name": "건축품질시험기술사",
+    "jmcd": "0511"
+  },
+  {
+    "certificate_id": 9,
+    "certificate_name": "공장관리기술사",
+    "jmcd": "0760"
+  },
+  {
+    "certificate_id": 10,
+    "certificate_name": "공조냉동기계기술사",
+    "jmcd": "0071"
+  },
+  {
+    "certificate_id": 11,
+    "certificate_name": "교통기술사",
+    "jmcd": "0951"
+  },
+  {
+    "certificate_id": 12,
+    "certificate_name": "금속가공기술사",
+    "jmcd": "0130"
+  },
+  {
+    "certificate_id": 13,
+    "certificate_name": "금속재료기술사",
+    "jmcd": "0110"
+  },
+  {
+    "certificate_id": 14,
+    "certificate_name": "금속제련기술사",
+    "jmcd": "0094"
+  },
+  {
+    "certificate_id": 15,
+    "certificate_name": "금형기술사",
+    "jmcd": "0012"
+  },
+  {
+    "certificate_id": 16,
+    "certificate_name": "기계기술사",
+    "jmcd": "0872"
+  },
+  {
+    "certificate_id": 17,
+    "certificate_name": "기계안전기술사",
+    "jmcd": "0710"
+  },
+  {
+    "certificate_id": 18,
+    "certificate_name": "기상예보기술사",
+    "jmcd": "0891"
+  },
+  {
+    "certificate_id": 19,
+    "certificate_name": "농어업토목기술사",
+    "jmcd": "0470"
+  },
+  {
+    "certificate_id": 20,
+    "certificate_name": "농화학기술사",
+    "jmcd": "0950"
+  },
+  {
+    "certificate_id": 21,
+    "certificate_name": "대기관리기술사",
+    "jmcd": "0920"
+  },
+  {
+    "certificate_id": 22,
+    "certificate_name": "도로및공항기술사",
+    "jmcd": "0420"
+  },
+  {
+    "certificate_id": 23,
+    "certificate_name": "도시계획기술사",
+    "jmcd": "0650"
+  },
+  {
+    "certificate_id": 24,
+    "certificate_name": "발송배전기술사",
+    "jmcd": "0230"
+  },
+  {
+    "certificate_id": 25,
+    "certificate_name": "비파괴검사기술사",
+    "jmcd": "0802"
+  },
+  {
+    "certificate_id": 26,
+    "certificate_name": "산림기술사",
+    "jmcd": "0801"
+  },
+  {
+    "certificate_id": 27,
+    "certificate_name": "산업계측제어기술사",
+    "jmcd": "0270"
+  },
+  {
+    "certificate_id": 28,
+    "certificate_name": "산업기계설비기술사",
+    "jmcd": "0060"
+  },
+  {
+    "certificate_id": 29,
+    "certificate_name": "산업위생관리기술사",
+    "jmcd": "0751"
+  },
+  {
+    "certificate_id": 30,
+    "certificate_name": "상하수도기술사",
+    "jmcd": "0460"
+  },
+  {
+    "certificate_id": 31,
+    "certificate_name": "섬유기술사",
+    "jmcd": "0551"
+  },
+  {
+    "certificate_id": 32,
+    "certificate_name": "세라믹기술사",
+    "jmcd": "0790"
+  },
+  {
+    "certificate_id": 33,
+    "certificate_name": "소방기술사",
+    "jmcd": "0750"
+  },
+  {
+    "certificate_id": 34,
+    "certificate_name": "소음진동기술사",
+    "jmcd": "0940"
+  },
+  {
+    "certificate_id": 35,
+    "certificate_name": "수산양식기술사",
+    "jmcd": "0701"
+  },
+  {
+    "certificate_id": 36,
+    "certificate_name": "수산제조기술사",
+    "jmcd": "0810"
+  },
+  {
+    "certificate_id": 37,
+    "certificate_name": "수자원개발기술사",
+    "jmcd": "0451"
+  },
+  {
+    "certificate_id": 38,
+    "certificate_name": "수질관리기술사",
+    "jmcd": "0930"
+  },
+  {
+    "certificate_id": 39,
+    "certificate_name": "시설원예기술사",
+    "jmcd": "0841"
+  },
+  {
+    "certificate_id": 40,
+    "certificate_name": "식품기술사",
+    "jmcd": "0800"
+  },
+  {
+    "certificate_id": 41,
+    "certificate_name": "어업기술사",
+    "jmcd": "0702"
+  },
+  {
+    "certificate_id": 42,
+    "certificate_name": "용접기술사",
+    "jmcd": "0011"
+  },
+  {
+    "certificate_id": 43,
+    "certificate_name": "의류기술사",
+    "jmcd": "0561"
+  },
+  {
+    "certificate_id": 44,
+    "certificate_name": "인간공학기술사",
+    "jmcd": "0875"
+  },
+  {
+    "certificate_id": 45,
+    "certificate_name": "자연환경관리기술사",
+    "jmcd": "0938"
+  },
+  {
+    "certificate_id": 46,
+    "certificate_name": "전기안전기술사",
+    "jmcd": "0730"
+  },
+  {
+    "certificate_id": 47,
+    "certificate_name": "전기응용기술사",
+    "jmcd": "0250"
+  },
+  {
+    "certificate_id": 48,
+    "certificate_name": "전기철도기술사",
+    "jmcd": "0432"
+  },
+  {
+    "certificate_id": 49,
+    "certificate_name": "전자응용기술사",
+    "jmcd": "0301"
+  },
+  {
+    "certificate_id": 50,
+    "certificate_name": "정보관리기술사",
+    "jmcd": "0601"
+  },
+  {
+    "certificate_id": 51,
+    "certificate_name": "제품디자인기술사",
+    "jmcd": "0960"
+  },
+  {
+    "certificate_id": 52,
+    "certificate_name": "조경기술사",
+    "jmcd": "0670"
+  },
+  {
+    "certificate_id": 53,
+    "certificate_name": "조선기술사",
+    "jmcd": "0320"
+  },
+  {
+    "certificate_id": 54,
+    "certificate_name": "종자기술사",
+    "jmcd": "0840"
+  },
+  {
+    "certificate_id": 55,
+    "certificate_name": "지적기술사",
+    "jmcd": "0690"
+  },
+  {
+    "certificate_id": 56,
+    "certificate_name": "지질및지반기술사",
+    "jmcd": "0825"
+  },
+  {
+    "certificate_id": 57,
+    "certificate_name": "차량기술사",
+    "jmcd": "0050"
+  },
+  {
+    "certificate_id": 58,
+    "certificate_name": "철도기술사",
+    "jmcd": "0430"
+  },
+  {
+    "certificate_id": 59,
+    "certificate_name": "철도신호기술사",
+    "jmcd": "0261"
+  },
+  {
+    "certificate_id": 60,
+    "certificate_name": "철도차량기술사",
+    "jmcd": "0431"
+  },
+  {
+    "certificate_id": 61,
+    "certificate_name": "축산기술사",
+    "jmcd": "0851"
+  },
+  {
+    "certificate_id": 62,
+    "certificate_name": "측량및지형공간정보기술사",
+    "jmcd": "0680"
+  },
+  {
+    "certificate_id": 63,
+    "certificate_name": "컴퓨터시스템응용기술사",
+    "jmcd": "0622"
+  },
+  {
+    "certificate_id": 64,
+    "certificate_name": "토목구조기술사",
+    "jmcd": "0400"
+  },
+  {
+    "certificate_id": 65,
+    "certificate_name": "토목시공기술사",
+    "jmcd": "0480"
+  },
+  {
+    "certificate_id": 66,
+    "certificate_name": "토목품질시험기술사",
+    "jmcd": "0481"
+  },
+  {
+    "certificate_id": 67,
+    "certificate_name": "토양환경기술사",
+    "jmcd": "0948"
+  },
+  {
+    "certificate_id": 68,
+    "certificate_name": "토질및기초기술사",
+    "jmcd": "0390"
+  },
+  {
+    "certificate_id": 69,
+    "certificate_name": "폐기물처리기술사",
+    "jmcd": "0970"
+  },
+  {
+    "certificate_id": 70,
+    "certificate_name": "포장기술사",
+    "jmcd": "0780"
+  },
+  {
+    "certificate_id": 71,
+    "certificate_name": "표면처리기술사",
+    "jmcd": "0120"
+  },
+  {
+    "certificate_id": 72,
+    "certificate_name": "품질관리기술사",
+    "jmcd": "0770"
+  },
+  {
+    "certificate_id": 73,
+    "certificate_name": "항공기관기술사",
+    "jmcd": "0370"
+  },
+  {
+    "certificate_id": 74,
+    "certificate_name": "항공기체기술사",
+    "jmcd": "0360"
+  },
+  {
+    "certificate_id": 75,
+    "certificate_name": "항만및해안기술사",
+    "jmcd": "0410"
+  },
+  {
+    "certificate_id": 76,
+    "certificate_name": "해양기술사",
+    "jmcd": "0700"
+  },
+  {
+    "certificate_id": 77,
+    "certificate_name": "화공기술사",
+    "jmcd": "0210"
+  },
+  {
+    "certificate_id": 78,
+    "certificate_name": "화공안전기술사",
+    "jmcd": "0720"
+  },
+  {
+    "certificate_id": 79,
+    "certificate_name": "화약류관리기술사",
+    "jmcd": "0591"
+  },
+  {
+    "certificate_id": 80,
+    "certificate_name": "가스기능장",
+    "jmcd": "3375"
+  },
+  {
+    "certificate_id": 81,
+    "certificate_name": "건설기계정비기능장",
+    "jmcd": "3120"
+  },
+  {
+    "certificate_id": 82,
+    "certificate_name": "건축목재시공기능장",
+    "jmcd": "3611"
+  },
+  {
+    "certificate_id": 83,
+    "certificate_name": "건축일반시공기능장",
+    "jmcd": "3621"
+  },
+  {
+    "certificate_id": 84,
+    "certificate_name": "귀금속가공기능장",
+    "jmcd": "3770"
+  },
+  {
+    "certificate_id": 85,
+    "certificate_name": "금속재료기능장",
+    "jmcd": "3221"
+  },
+  {
+    "certificate_id": 86,
+    "certificate_name": "금형기능장",
+    "jmcd": "3061"
+  },
+  {
+    "certificate_id": 87,
+    "certificate_name": "기계가공기능장",
+    "jmcd": "3021"
+  },
+  {
+    "certificate_id": 88,
+    "certificate_name": "미용장",
+    "jmcd": "3924"
+  },
+  {
+    "certificate_id": 89,
+    "certificate_name": "배관기능장",
+    "jmcd": "3081"
+  },
+  {
+    "certificate_id": 90,
+    "certificate_name": "산림기능장",
+    "jmcd": "3861"
+  },
+  {
+    "certificate_id": 91,
+    "certificate_name": "압연기능장",
+    "jmcd": "3270"
+  },
+  {
+    "certificate_id": 92,
+    "certificate_name": "에너지관리기능장",
+    "jmcd": "3170"
+  },
+  {
+    "certificate_id": 93,
+    "certificate_name": "용접기능장",
+    "jmcd": "3100"
+  },
+  {
+    "certificate_id": 94,
+    "certificate_name": "위험물기능장",
+    "jmcd": "3360"
+  },
+  {
+    "certificate_id": 95,
+    "certificate_name": "이용장",
+    "jmcd": "3925"
+  },
+  {
+    "certificate_id": 96,
+    "certificate_name": "자동차정비기능장",
+    "jmcd": "3110"
+  },
+  {
+    "certificate_id": 97,
+    "certificate_name": "잠수기능장",
+    "jmcd": "3911"
+  },
+  {
+    "certificate_id": 98,
+    "certificate_name": "전기기능장",
+    "jmcd": "3380"
+  },
+  {
+    "certificate_id": 99,
+    "certificate_name": "전자기능장",
+    "jmcd": "3410"
+  },
+  {
+    "certificate_id": 100,
+    "certificate_name": "제강기능장",
+    "jmcd": "3240"
+  },
+  {
+    "certificate_id": 101,
+    "certificate_name": "제과기능장",
+    "jmcd": "3923"
+  },
+  {
+    "certificate_id": 102,
+    "certificate_name": "제선기능장",
+    "jmcd": "3230"
+  },
+  {
+    "certificate_id": 103,
+    "certificate_name": "조리기능장",
+    "jmcd": "3922"
+  },
+  {
+    "certificate_id": 104,
+    "certificate_name": "주조기능장",
+    "jmcd": "3200"
+  },
+  {
+    "certificate_id": 105,
+    "certificate_name": "철도차량정비기능장",
+    "jmcd": "3150"
+  },
+  {
+    "certificate_id": 106,
+    "certificate_name": "판금제관기능장",
+    "jmcd": "3095"
+  },
+  {
+    "certificate_id": 107,
+    "certificate_name": "표면처리기능장",
+    "jmcd": "3210"
+  },
+  {
+    "certificate_id": 108,
+    "certificate_name": "한복기능장",
+    "jmcd": "3643"
+  },
+  {
+    "certificate_id": 109,
+    "certificate_name": "3D프린터개발산업기사",
+    "jmcd": "2177"
+  },
+  {
+    "certificate_id": 110,
+    "certificate_name": "가구제작산업기사",
+    "jmcd": "2142"
+  },
+  {
+    "certificate_id": 111,
+    "certificate_name": "가스기사",
+    "jmcd": "1471"
+  },
+  {
+    "certificate_id": 112,
+    "certificate_name": "가스산업기사",
+    "jmcd": "2471"
+  },
+  {
+    "certificate_id": 113,
+    "certificate_name": "객화차정비산업기사",
+    "jmcd": "2044"
+  },
+  {
+    "certificate_id": 114,
+    "certificate_name": "건설기계설비기사",
+    "jmcd": "1040"
+  },
+  {
+    "certificate_id": 115,
+    "certificate_name": "건설기계설비산업기사",
+    "jmcd": "2040"
+  },
+  {
+    "certificate_id": 116,
+    "certificate_name": "건설기계정비기사",
+    "jmcd": "1050"
+  },
+  {
+    "certificate_id": 117,
+    "certificate_name": "건설기계정비산업기사",
+    "jmcd": "2050"
+  },
+  {
+    "certificate_id": 118,
+    "certificate_name": "건설안전기사",
+    "jmcd": "1440"
+  },
+  {
+    "certificate_id": 119,
+    "certificate_name": "건설안전산업기사",
+    "jmcd": "2390"
+  },
+  {
+    "certificate_id": 120,
+    "certificate_name": "건설재료시험기사",
+    "jmcd": "1750"
+  },
+  {
+    "certificate_id": 121,
+    "certificate_name": "건설재료시험산업기사",
+    "jmcd": "2600"
+  },
+  {
+    "certificate_id": 122,
+    "certificate_name": "건축기사",
+    "jmcd": "1630"
+  },
+  {
+    "certificate_id": 123,
+    "certificate_name": "건축목공산업기사",
+    "jmcd": "2253"
+  },
+  {
+    "certificate_id": 124,
+    "certificate_name": "건축산업기사",
+    "jmcd": "2530"
+  },
+  {
+    "certificate_id": 125,
+    "certificate_name": "건축설비기사",
+    "jmcd": "1632"
+  },
+  {
+    "certificate_id": 126,
+    "certificate_name": "건축설비산업기사",
+    "jmcd": "2531"
+  },
+  {
+    "certificate_id": 127,
+    "certificate_name": "건축일반시공산업기사",
+    "jmcd": "2251"
+  },
+  {
+    "certificate_id": 128,
+    "certificate_name": "공간정보융합산업기사",
+    "jmcd": "2331"
+  },
+  {
+    "certificate_id": 129,
+    "certificate_name": "공조냉동기계기사",
+    "jmcd": "1730"
+  },
+  {
+    "certificate_id": 130,
+    "certificate_name": "공조냉동기계산업기사",
+    "jmcd": "2590"
+  },
+  {
+    "certificate_id": 131,
+    "certificate_name": "광학기기산업기사",
+    "jmcd": "2108"
+  },
+  {
+    "certificate_id": 132,
+    "certificate_name": "광학기사",
+    "jmcd": "1513"
+  },
+  {
+    "certificate_id": 133,
+    "certificate_name": "교통기사",
+    "jmcd": "1751"
+  },
+  {
+    "certificate_id": 134,
+    "certificate_name": "교통산업기사",
+    "jmcd": "2751"
+  },
+  {
+    "certificate_id": 135,
+    "certificate_name": "국제의료관광코디네이터",
+    "jmcd": "9105"
+  },
+  {
+    "certificate_id": 136,
+    "certificate_name": "궤도장비정비기사",
+    "jmcd": "1051"
+  },
+  {
+    "certificate_id": 137,
+    "certificate_name": "궤도장비정비산업기사",
+    "jmcd": "2051"
+  },
+  {
+    "certificate_id": 138,
+    "certificate_name": "귀금속가공산업기사",
+    "jmcd": "2760"
+  },
+  {
+    "certificate_id": 139,
+    "certificate_name": "그린전동자동차기사",
+    "jmcd": "1027"
+  },
+  {
+    "certificate_id": 140,
+    "certificate_name": "금속재료기사",
+    "jmcd": "1104"
+  },
+  {
+    "certificate_id": 141,
+    "certificate_name": "금속재료산업기사",
+    "jmcd": "2101"
+  },
+  {
+    "certificate_id": 142,
+    "certificate_name": "기계설계산업기사",
+    "jmcd": "2031"
+  },
+  {
+    "certificate_id": 143,
+    "certificate_name": "기계조립산업기사",
+    "jmcd": "2011"
+  },
+  {
+    "certificate_id": 144,
+    "certificate_name": "기상감정기사",
+    "jmcd": "1601"
+  },
+  {
+    "certificate_id": 145,
+    "certificate_name": "기상기사",
+    "jmcd": "1600"
+  },
+  {
+    "certificate_id": 146,
+    "certificate_name": "농림토양평가관리기사",
+    "jmcd": "1582"
+  },
+  {
+    "certificate_id": 147,
+    "certificate_name": "농림토양평가관리산업기사",
+    "jmcd": "2582"
+  },
+  {
+    "certificate_id": 148,
+    "certificate_name": "농업기계기사",
+    "jmcd": "1023"
+  },
+  {
+    "certificate_id": 149,
+    "certificate_name": "농업기계산업기사",
+    "jmcd": "2027"
+  },
+  {
+    "certificate_id": 150,
+    "certificate_name": "농작업안전보건기사",
+    "jmcd": "1442"
+  },
+  {
+    "certificate_id": 151,
+    "certificate_name": "누설비파괴검사기사",
+    "jmcd": "1617"
+  },
+  {
+    "certificate_id": 152,
+    "certificate_name": "대기환경기사",
+    "jmcd": "1661"
+  },
+  {
+    "certificate_id": 153,
+    "certificate_name": "대기환경산업기사",
+    "jmcd": "2571"
+  },
+  {
+    "certificate_id": 154,
+    "certificate_name": "도시계획기사",
+    "jmcd": "1350"
+  },
+  {
+    "certificate_id": 155,
+    "certificate_name": "디지털인쇄산업기사",
+    "jmcd": "2391"
+  },
+  {
+    "certificate_id": 156,
+    "certificate_name": "로봇기구개발기사",
+    "jmcd": "1177"
+  },
+  {
+    "certificate_id": 157,
+    "certificate_name": "로봇소프트웨어개발기사",
+    "jmcd": "1178"
+  },
+  {
+    "certificate_id": 158,
+    "certificate_name": "로봇하드웨어개발기사",
+    "jmcd": "1179"
+  },
+  {
+    "certificate_id": 159,
+    "certificate_name": "멀티미디어콘텐츠제작전문가",
+    "jmcd": "9545"
+  },
+  {
+    "certificate_id": 160,
+    "certificate_name": "메카트로닉스산업기사",
+    "jmcd": "2060"
+  },
+  {
+    "certificate_id": 161,
+    "certificate_name": "바이오화학제품제조기사",
+    "jmcd": "1800"
+  },
+  {
+    "certificate_id": 162,
+    "certificate_name": "바이오화학제품제조산업기사",
+    "jmcd": "2570"
+  },
+  {
+    "certificate_id": 163,
+    "certificate_name": "반도체설계산업기사",
+    "jmcd": "2175"
+  },
+  {
+    "certificate_id": 164,
+    "certificate_name": "방사선비파괴검사기사",
+    "jmcd": "1611"
+  },
+  {
+    "certificate_id": 165,
+    "certificate_name": "방사선비파괴검사산업기사",
+    "jmcd": "2611"
+  },
+  {
+    "certificate_id": 166,
+    "certificate_name": "방수산업기사",
+    "jmcd": "2630"
+  },
+  {
+    "certificate_id": 167,
+    "certificate_name": "방재기사",
+    "jmcd": "1443"
+  },
+  {
+    "certificate_id": 168,
+    "certificate_name": "배관산업기사",
+    "jmcd": "2041"
+  },
+  {
+    "certificate_id": 169,
+    "certificate_name": "버섯산업기사",
+    "jmcd": "1641"
+  },
+  {
+    "certificate_id": 170,
+    "certificate_name": "보석감정산업기사",
+    "jmcd": "2980"
+  },
+  {
+    "certificate_id": 171,
+    "certificate_name": "보석디자인산업기사",
+    "jmcd": "2880"
+  },
+  {
+    "certificate_id": 172,
+    "certificate_name": "복어조리산업기사",
+    "jmcd": "2975"
+  },
+  {
+    "certificate_id": 173,
+    "certificate_name": "사무자동화산업기사",
+    "jmcd": "2193"
+  },
+  {
+    "certificate_id": 174,
+    "certificate_name": "사출금형기사",
+    "jmcd": "1024"
+  },
+  {
+    "certificate_id": 175,
+    "certificate_name": "사출금형산업기사",
+    "jmcd": "2028"
+  },
+  {
+    "certificate_id": 176,
+    "certificate_name": "사회조사분석사1급",
+    "jmcd": "9520"
+  },
+  {
+    "certificate_id": 177,
+    "certificate_name": "사회조사분석사2급",
+    "jmcd": "9521"
+  },
+  {
+    "certificate_id": 178,
+    "certificate_name": "산림기사",
+    "jmcd": "1564"
+  },
+  {
+    "certificate_id": 179,
+    "certificate_name": "산림산업기사",
+    "jmcd": "2481"
+  },
+  {
+    "certificate_id": 180,
+    "certificate_name": "산업안전기사",
+    "jmcd": "1431"
+  },
+  {
+    "certificate_id": 181,
+    "certificate_name": "산업안전산업기사",
+    "jmcd": "2381"
+  },
+  {
+    "certificate_id": 182,
+    "certificate_name": "산업위생관리기사",
+    "jmcd": "1472"
+  },
+  {
+    "certificate_id": 183,
+    "certificate_name": "산업위생관리산업기사",
+    "jmcd": "2472"
+  },
+  {
+    "certificate_id": 184,
+    "certificate_name": "생물분류기사(동물)",
+    "jmcd": "1989"
+  },
+  {
+    "certificate_id": 185,
+    "certificate_name": "생물분류기사(식물)",
+    "jmcd": "1988"
+  },
+  {
+    "certificate_id": 186,
+    "certificate_name": "설비보전기사",
+    "jmcd": "1837"
+  },
+  {
+    "certificate_id": 187,
+    "certificate_name": "설비보전산업기사",
+    "jmcd": "2035"
+  },
+  {
+    "certificate_id": 188,
+    "certificate_name": "섬유기사",
+    "jmcd": "1297"
+  },
+  {
+    "certificate_id": 189,
+    "certificate_name": "섬유디자인산업기사",
+    "jmcd": "2264"
+  },
+  {
+    "certificate_id": 190,
+    "certificate_name": "섬유산업기사",
+    "jmcd": "2277"
+  },
+  {
+    "certificate_id": 191,
+    "certificate_name": "소방설비기사(기계분야)",
+    "jmcd": "1900"
+  },
+  {
+    "certificate_id": 192,
+    "certificate_name": "소방설비기사(전기분야)",
+    "jmcd": "1910"
+  },
+  {
+    "certificate_id": 193,
+    "certificate_name": "소방설비산업기사(기계분야)",
+    "jmcd": "2900"
+  },
+  {
+    "certificate_id": 194,
+    "certificate_name": "소방설비산업기사(전기분야)",
+    "jmcd": "2910"
+  },
+  {
+    "certificate_id": 195,
+    "certificate_name": "소비자전문상담사1급",
+    "jmcd": "9537"
+  },
+  {
+    "certificate_id": 196,
+    "certificate_name": "소비자전문상담사2급",
+    "jmcd": "9538"
+  },
+  {
+    "certificate_id": 197,
+    "certificate_name": "소음진동기사",
+    "jmcd": "1663"
+  },
+  {
+    "certificate_id": 198,
+    "certificate_name": "소음진동산업기사",
+    "jmcd": "2573"
+  },
+  {
+    "certificate_id": 199,
+    "certificate_name": "수산양식기사",
+    "jmcd": "1625"
+  },
+  {
+    "certificate_id": 200,
+    "certificate_name": "수산양식산업기사",
+    "jmcd": "2520"
+  },
+  {
+    "certificate_id": 201,
+    "certificate_name": "수산제조기사",
+    "jmcd": "1540"
+  },
+  {
+    "certificate_id": 202,
+    "certificate_name": "수질환경기사",
+    "jmcd": "1662"
+  },
+  {
+    "certificate_id": 203,
+    "certificate_name": "수질환경산업기사",
+    "jmcd": "2572"
+  },
+  {
+    "certificate_id": 204,
+    "certificate_name": "스마트공장산업기사",
+    "jmcd": "9772"
+  },
+  {
+    "certificate_id": 205,
+    "certificate_name": "스포츠경영관리사",
+    "jmcd": "9546"
+  },
+  {
+    "certificate_id": 206,
+    "certificate_name": "승강기기사",
+    "jmcd": "1555"
+  },
+  {
+    "certificate_id": 207,
+    "certificate_name": "승강기산업기사",
+    "jmcd": "2395"
+  },
+  {
+    "certificate_id": 208,
+    "certificate_name": "시각디자인기사",
+    "jmcd": "1790"
+  },
+  {
+    "certificate_id": 209,
+    "certificate_name": "시각디자인산업기사",
+    "jmcd": "2434"
+  },
+  {
+    "certificate_id": 210,
+    "certificate_name": "시설원예기사",
+    "jmcd": "1780"
+  },
+  {
+    "certificate_id": 211,
+    "certificate_name": "식물보호기사",
+    "jmcd": "1562"
+  },
+  {
+    "certificate_id": 212,
+    "certificate_name": "식물보호산업기사",
+    "jmcd": "2562"
+  },
+  {
+    "certificate_id": 213,
+    "certificate_name": "식육가공기사",
+    "jmcd": "1541"
+  },
+  {
+    "certificate_id": 214,
+    "certificate_name": "식품산업기사",
+    "jmcd": "2450"
+  },
+  {
+    "certificate_id": 215,
+    "certificate_name": "식품안전기사",
+    "jmcd": "1530"
+  },
+  {
+    "certificate_id": 216,
+    "certificate_name": "신발산업기사",
+    "jmcd": "2302"
+  },
+  {
+    "certificate_id": 217,
+    "certificate_name": "신재생에너지발전설비기사(태양광)",
+    "jmcd": "1114"
+  },
+  {
+    "certificate_id": 218,
+    "certificate_name": "신재생에너지발전설비산업기사(태양광)",
+    "jmcd": "2114"
+  },
+  {
+    "certificate_id": 219,
+    "certificate_name": "실내건축기사",
+    "jmcd": "1282"
+  },
+  {
+    "certificate_id": 220,
+    "certificate_name": "실내건축산업기사",
+    "jmcd": "2282"
+  },
+  {
+    "certificate_id": 221,
+    "certificate_name": "양식조리산업기사",
+    "jmcd": "2972"
+  },
+  {
+    "certificate_id": 222,
+    "certificate_name": "어로산업기사",
+    "jmcd": "2631"
+  },
+  {
+    "certificate_id": 223,
+    "certificate_name": "어병기사",
+    "jmcd": "1626"
+  },
+  {
+    "certificate_id": 224,
+    "certificate_name": "어업생산관리기사",
+    "jmcd": "1633"
+  },
+  {
+    "certificate_id": 225,
+    "certificate_name": "에너지관리기사",
+    "jmcd": "1340"
+  },
+  {
+    "certificate_id": 226,
+    "certificate_name": "에너지관리산업기사",
+    "jmcd": "2960"
+  },
+  {
+    "certificate_id": 227,
+    "certificate_name": "온실가스관리기사",
+    "jmcd": "1028"
+  },
+  {
+    "certificate_id": 228,
+    "certificate_name": "와전류비파괴검사기사",
+    "jmcd": "1615"
+  },
+  {
+    "certificate_id": 229,
+    "certificate_name": "용접기사",
+    "jmcd": "1022"
+  },
+  {
+    "certificate_id": 230,
+    "certificate_name": "용접산업기사",
+    "jmcd": "2026"
+  },
+  {
+    "certificate_id": 231,
+    "certificate_name": "위험물산업기사",
+    "jmcd": "2121"
+  },
+  {
+    "certificate_id": 232,
+    "certificate_name": "유기농업기사",
+    "jmcd": "1592"
+  },
+  {
+    "certificate_id": 233,
+    "certificate_name": "유기농업산업기사",
+    "jmcd": "2592"
+  },
+  {
+    "certificate_id": 234,
+    "certificate_name": "응용지질기사",
+    "jmcd": "1550"
+  },
+  {
+    "certificate_id": 235,
+    "certificate_name": "의공기사",
+    "jmcd": "1176"
+  },
+  {
+    "certificate_id": 236,
+    "certificate_name": "의공산업기사",
+    "jmcd": "2176"
+  },
+  {
+    "certificate_id": 237,
+    "certificate_name": "의류기사",
+    "jmcd": "1301"
+  },
+  {
+    "certificate_id": 238,
+    "certificate_name": "이러닝운영관리사",
+    "jmcd": "9547"
+  },
+  {
+    "certificate_id": 239,
+    "certificate_name": "인간공학기사",
+    "jmcd": "1875"
+  },
+  {
+    "certificate_id": 240,
+    "certificate_name": "인쇄설계기사",
+    "jmcd": "1391"
+  },
+  {
+    "certificate_id": 241,
+    "certificate_name": "일반기계기사",
+    "jmcd": "1021"
+  },
+  {
+    "certificate_id": 242,
+    "certificate_name": "일식조리산업기사",
+    "jmcd": "2973"
+  },
+  {
+    "certificate_id": 243,
+    "certificate_name": "임베디드기사",
+    "jmcd": "1121"
+  },
+  {
+    "certificate_id": 244,
+    "certificate_name": "임산가공기사",
+    "jmcd": "1590"
+  },
+  {
+    "certificate_id": 245,
+    "certificate_name": "임상심리사1급",
+    "jmcd": "9539"
+  },
+  {
+    "certificate_id": 246,
+    "certificate_name": "임상심리사2급",
+    "jmcd": "9540"
+  },
+  {
+    "certificate_id": 247,
+    "certificate_name": "임업종묘기사",
+    "jmcd": "1570"
+  },
+  {
+    "certificate_id": 248,
+    "certificate_name": "자기비파괴검사기사",
+    "jmcd": "1613"
+  },
+  {
+    "certificate_id": 249,
+    "certificate_name": "자기비파괴검사산업기사",
+    "jmcd": "2613"
+  },
+  {
+    "certificate_id": 250,
+    "certificate_name": "자동차정비기사",
+    "jmcd": "1070"
+  },
+  {
+    "certificate_id": 251,
+    "certificate_name": "자동차정비산업기사",
+    "jmcd": "2070"
+  },
+  {
+    "certificate_id": 252,
+    "certificate_name": "자동화설비산업기사",
+    "jmcd": "2034"
+  },
+  {
+    "certificate_id": 253,
+    "certificate_name": "자연생태복원기사",
+    "jmcd": "1938"
+  },
+  {
+    "certificate_id": 254,
+    "certificate_name": "자연생태복원산업기사",
+    "jmcd": "2938"
+  },
+  {
+    "certificate_id": 255,
+    "certificate_name": "잠수산업기사",
+    "jmcd": "2521"
+  },
+  {
+    "certificate_id": 256,
+    "certificate_name": "재료조직평가산업기사",
+    "jmcd": "2107"
+  },
+  {
+    "certificate_id": 257,
+    "certificate_name": "전기공사기사",
+    "jmcd": "1160"
+  },
+  {
+    "certificate_id": 258,
+    "certificate_name": "전기공사산업기사",
+    "jmcd": "2150"
+  },
+  {
+    "certificate_id": 259,
+    "certificate_name": "전기기기산업기사",
+    "jmcd": "2151"
+  },
+  {
+    "certificate_id": 260,
+    "certificate_name": "전기기사",
+    "jmcd": "1150"
+  },
+  {
+    "certificate_id": 261,
+    "certificate_name": "전기산업기사",
+    "jmcd": "2140"
+  },
+  {
+    "certificate_id": 262,
+    "certificate_name": "전기철도기사",
+    "jmcd": "1741"
+  },
+  {
+    "certificate_id": 263,
+    "certificate_name": "전기철도산업기사",
+    "jmcd": "2036"
+  },
+  {
+    "certificate_id": 264,
+    "certificate_name": "전자계산기기사",
+    "jmcd": "1321"
+  },
+  {
+    "certificate_id": 265,
+    "certificate_name": "전자계산기제어산업기사",
+    "jmcd": "2324"
+  },
+  {
+    "certificate_id": 266,
+    "certificate_name": "전자계산기조직응용기사",
+    "jmcd": "1322"
+  },
+  {
+    "certificate_id": 267,
+    "certificate_name": "전자기사",
+    "jmcd": "1170"
+  },
+  {
+    "certificate_id": 268,
+    "certificate_name": "전자부품장착산업기사",
+    "jmcd": "2835"
+  },
+  {
+    "certificate_id": 269,
+    "certificate_name": "전자산업기사",
+    "jmcd": "2170"
+  },
+  {
+    "certificate_id": 270,
+    "certificate_name": "전자회로설계산업기사",
+    "jmcd": "2172"
+  },
+  {
+    "certificate_id": 271,
+    "certificate_name": "정밀측정산업기사",
+    "jmcd": "2104"
+  },
+  {
+    "certificate_id": 272,
+    "certificate_name": "정밀화학기사",
+    "jmcd": "1125"
+  },
+  {
+    "certificate_id": 273,
+    "certificate_name": "정보처리기사",
+    "jmcd": "1320"
+  },
+  {
+    "certificate_id": 274,
+    "certificate_name": "정보처리산업기사",
+    "jmcd": "2290"
+  },
+  {
+    "certificate_id": 275,
+    "certificate_name": "제과산업기사",
+    "jmcd": "4223"
+  },
+  {
+    "certificate_id": 276,
+    "certificate_name": "제빵산업기사",
+    "jmcd": "4224"
+  },
+  {
+    "certificate_id": 277,
+    "certificate_name": "제판기사",
+    "jmcd": "1810"
+  },
+  {
+    "certificate_id": 278,
+    "certificate_name": "제품디자인기사",
+    "jmcd": "1512"
+  },
+  {
+    "certificate_id": 279,
+    "certificate_name": "제품디자인산업기사",
+    "jmcd": "2432"
+  },
+  {
+    "certificate_id": 280,
+    "certificate_name": "조경기사",
+    "jmcd": "1370"
+  },
+  {
+    "certificate_id": 281,
+    "certificate_name": "조경산업기사",
+    "jmcd": "2320"
+  },
+  {
+    "certificate_id": 282,
+    "certificate_name": "조선산업기사",
+    "jmcd": "2220"
+  },
+  {
+    "certificate_id": 283,
+    "certificate_name": "조선선체기사",
+    "jmcd": "1221"
+  },
+  {
+    "certificate_id": 284,
+    "certificate_name": "조선의장기사",
+    "jmcd": "1222"
+  },
+  {
+    "certificate_id": 285,
+    "certificate_name": "종자기사",
+    "jmcd": "1560"
+  },
+  {
+    "certificate_id": 286,
+    "certificate_name": "종자산업기사",
+    "jmcd": "2470"
+  },
+  {
+    "certificate_id": 287,
+    "certificate_name": "주조산업기사",
+    "jmcd": "2105"
+  },
+  {
+    "certificate_id": 288,
+    "certificate_name": "중식조리산업기사",
+    "jmcd": "2974"
+  },
+  {
+    "certificate_id": 289,
+    "certificate_name": "지적기사",
+    "jmcd": "1390"
+  },
+  {
+    "certificate_id": 290,
+    "certificate_name": "지적산업기사",
+    "jmcd": "2340"
+  },
+  {
+    "certificate_id": 291,
+    "certificate_name": "직업상담사1급",
+    "jmcd": "9510"
+  },
+  {
+    "certificate_id": 292,
+    "certificate_name": "직업상담사2급",
+    "jmcd": "9511"
+  },
+  {
+    "certificate_id": 293,
+    "certificate_name": "철도동력차기관정비산업기사",
+    "jmcd": "2042"
+  },
+  {
+    "certificate_id": 294,
+    "certificate_name": "철도동력차전기정비산업기사",
+    "jmcd": "2043"
+  },
+  {
+    "certificate_id": 295,
+    "certificate_name": "철도신호기사",
+    "jmcd": "1740"
+  },
+  {
+    "certificate_id": 296,
+    "certificate_name": "철도신호산업기사",
+    "jmcd": "2160"
+  },
+  {
+    "certificate_id": 297,
+    "certificate_name": "철도운송산업기사",
+    "jmcd": "2045"
+  },
+  {
+    "certificate_id": 298,
+    "certificate_name": "철도차량기사",
+    "jmcd": "1030"
+  },
+  {
+    "certificate_id": 299,
+    "certificate_name": "철도차량산업기사",
+    "jmcd": "2030"
+  },
+  {
+    "certificate_id": 300,
+    "certificate_name": "철도토목기사",
+    "jmcd": "1760"
+  },
+  {
+    "certificate_id": 301,
+    "certificate_name": "초음파비파괴검사기사",
+    "jmcd": "1612"
+  },
+  {
+    "certificate_id": 302,
+    "certificate_name": "초음파비파괴검사산업기사",
+    "jmcd": "2612"
+  },
+  {
+    "certificate_id": 303,
+    "certificate_name": "축산기사",
+    "jmcd": "1581"
+  },
+  {
+    "certificate_id": 304,
+    "certificate_name": "축산산업기사",
+    "jmcd": "2491"
+  },
+  {
+    "certificate_id": 305,
+    "certificate_name": "측량및지형공간정보기사",
+    "jmcd": "1380"
+  },
+  {
+    "certificate_id": 306,
+    "certificate_name": "측량및지형공간정보산업기사",
+    "jmcd": "2330"
+  },
+  {
+    "certificate_id": 307,
+    "certificate_name": "침투비파괴검사기사",
+    "jmcd": "1614"
+  },
+  {
+    "certificate_id": 308,
+    "certificate_name": "침투비파괴검사산업기사",
+    "jmcd": "2614"
+  },
+  {
+    "certificate_id": 309,
+    "certificate_name": "컨벤션기획사1급",
+    "jmcd": "9535"
+  },
+  {
+    "certificate_id": 310,
+    "certificate_name": "컨벤션기획사2급",
+    "jmcd": "9536"
+  },
+  {
+    "certificate_id": 311,
+    "certificate_name": "컬러리스트기사",
+    "jmcd": "1982"
+  },
+  {
+    "certificate_id": 312,
+    "certificate_name": "컬러리스트산업기사",
+    "jmcd": "2982"
+  },
+  {
+    "certificate_id": 313,
+    "certificate_name": "컴퓨터응용가공산업기사",
+    "jmcd": "2025"
+  },
+  {
+    "certificate_id": 314,
+    "certificate_name": "콘크리트기사",
+    "jmcd": "1048"
+  },
+  {
+    "certificate_id": 315,
+    "certificate_name": "콘크리트산업기사",
+    "jmcd": "2048"
+  },
+  {
+    "certificate_id": 316,
+    "certificate_name": "텔레마케팅관리사",
+    "jmcd": "9541"
+  },
+  {
+    "certificate_id": 317,
+    "certificate_name": "토목기사",
+    "jmcd": "1250"
+  },
+  {
+    "certificate_id": 318,
+    "certificate_name": "토목산업기사",
+    "jmcd": "2240"
+  },
+  {
+    "certificate_id": 319,
+    "certificate_name": "토양환경기사",
+    "jmcd": "1948"
+  },
+  {
+    "certificate_id": 320,
+    "certificate_name": "판금제관산업기사",
+    "jmcd": "2012"
+  },
+  {
+    "certificate_id": 321,
+    "certificate_name": "패션디자인산업기사",
+    "jmcd": "2301"
+  },
+  {
+    "certificate_id": 322,
+    "certificate_name": "패션머천다이징산업기사",
+    "jmcd": "2085"
+  },
+  {
+    "certificate_id": 323,
+    "certificate_name": "폐기물처리기사",
+    "jmcd": "1950"
+  },
+  {
+    "certificate_id": 324,
+    "certificate_name": "폐기물처리산업기사",
+    "jmcd": "2950"
+  },
+  {
+    "certificate_id": 325,
+    "certificate_name": "포장기사",
+    "jmcd": "1511"
+  },
+  {
+    "certificate_id": 326,
+    "certificate_name": "포장산업기사",
+    "jmcd": "2431"
+  },
+  {
+    "certificate_id": 327,
+    "certificate_name": "표면처리산업기사",
+    "jmcd": "2106"
+  },
+  {
+    "certificate_id": 328,
+    "certificate_name": "품질경영기사",
+    "jmcd": "1500"
+  },
+  {
+    "certificate_id": 329,
+    "certificate_name": "품질경영산업기사",
+    "jmcd": "2420"
+  },
+  {
+    "certificate_id": 330,
+    "certificate_name": "프레스금형기사",
+    "jmcd": "1025"
+  },
+  {
+    "certificate_id": 331,
+    "certificate_name": "프레스금형산업기사",
+    "jmcd": "2029"
+  },
+  {
+    "certificate_id": 332,
+    "certificate_name": "피아노조율산업기사",
+    "jmcd": "2551"
+  },
+  {
+    "certificate_id": 333,
+    "certificate_name": "한복산업기사",
+    "jmcd": "2268"
+  },
+  {
+    "certificate_id": 334,
+    "certificate_name": "한식조리산업기사",
+    "jmcd": "2971"
+  },
+  {
+    "certificate_id": 335,
+    "certificate_name": "항공기사",
+    "jmcd": "1240"
+  },
+  {
+    "certificate_id": 336,
+    "certificate_name": "항공산업기사",
+    "jmcd": "2230"
+  },
+  {
+    "certificate_id": 337,
+    "certificate_name": "항로표지기사",
+    "jmcd": "1351"
+  },
+  {
+    "certificate_id": 338,
+    "certificate_name": "항로표지산업기사",
+    "jmcd": "2351"
+  },
+  {
+    "certificate_id": 339,
+    "certificate_name": "해양공학기사",
+    "jmcd": "1403"
+  },
+  {
+    "certificate_id": 340,
+    "certificate_name": "해양자원개발기사",
+    "jmcd": "1402"
+  },
+  {
+    "certificate_id": 341,
+    "certificate_name": "해양조사산업기사",
+    "jmcd": "2350"
+  },
+  {
+    "certificate_id": 342,
+    "certificate_name": "해양환경기사",
+    "jmcd": "1401"
+  },
+  {
+    "certificate_id": 343,
+    "certificate_name": "화공기사",
+    "jmcd": "1110"
+  },
+  {
+    "certificate_id": 344,
+    "certificate_name": "화약류관리기사",
+    "jmcd": "1140"
+  },
+  {
+    "certificate_id": 345,
+    "certificate_name": "화약류관리산업기사",
+    "jmcd": "2130"
+  },
+  {
+    "certificate_id": 346,
+    "certificate_name": "화약류제조기사",
+    "jmcd": "1130"
+  },
+  {
+    "certificate_id": 347,
+    "certificate_name": "화약류제조산업기사",
+    "jmcd": "2120"
+  },
+  {
+    "certificate_id": 348,
+    "certificate_name": "화재감식평가기사",
+    "jmcd": "1441"
+  },
+  {
+    "certificate_id": 349,
+    "certificate_name": "화재감식평가산업기사",
+    "jmcd": "2441"
+  },
+  {
+    "certificate_id": 350,
+    "certificate_name": "화학분석기사",
+    "jmcd": "1563"
+  },
+  {
+    "certificate_id": 351,
+    "certificate_name": "화훼장식기사",
+    "jmcd": "1576"
+  },
+  {
+    "certificate_id": 352,
+    "certificate_name": "화훼장식산업기사",
+    "jmcd": "2625"
+  },
+  {
+    "certificate_id": 353,
+    "certificate_name": "환경위해관리기사",
+    "jmcd": "1029"
+  },
+  {
+    "certificate_id": 354,
+    "certificate_name": "3D프린터운용기능사",
+    "jmcd": "7785"
+  },
+  {
+    "certificate_id": 355,
+    "certificate_name": "가구제작기능사",
+    "jmcd": "7140"
+  },
+  {
+    "certificate_id": 356,
+    "certificate_name": "가스기능사",
+    "jmcd": "6335"
+  },
+  {
+    "certificate_id": 357,
+    "certificate_name": "가스텅스텐아크용접기능사",
+    "jmcd": "6224"
+  },
+  {
+    "certificate_id": 358,
+    "certificate_name": "거푸집기능사",
+    "jmcd": "7170"
+  },
+  {
+    "certificate_id": 359,
+    "certificate_name": "건설기계정비기능사",
+    "jmcd": "6298"
+  },
+  {
+    "certificate_id": 360,
+    "certificate_name": "건설재료시험기능사",
+    "jmcd": "7132"
+  },
+  {
+    "certificate_id": 361,
+    "certificate_name": "건축도장기능사",
+    "jmcd": "7150"
+  },
+  {
+    "certificate_id": 362,
+    "certificate_name": "건축목공기능사",
+    "jmcd": "7130"
+  },
+  {
+    "certificate_id": 363,
+    "certificate_name": "공간정보융합기능사",
+    "jmcd": "6981"
+  },
+  {
+    "certificate_id": 364,
+    "certificate_name": "공구제작기능사보",
+    "jmcd": "8070"
+  },
+  {
+    "certificate_id": 365,
+    "certificate_name": "공조냉동기계기능사",
+    "jmcd": "6320"
+  },
+  {
+    "certificate_id": 366,
+    "certificate_name": "광산보안기능사(화약분야)",
+    "jmcd": "7385"
+  },
+  {
+    "certificate_id": 367,
+    "certificate_name": "광산차량기계운전기능사",
+    "jmcd": "7371"
+  },
+  {
+    "certificate_id": 368,
+    "certificate_name": "광산환경기능사",
+    "jmcd": "7372"
+  },
+  {
+    "certificate_id": 369,
+    "certificate_name": "굴착기운전기능사",
+    "jmcd": "7862"
+  },
+  {
+    "certificate_id": 370,
+    "certificate_name": "궤도장비정비기능사",
+    "jmcd": "6051"
+  },
+  {
+    "certificate_id": 371,
+    "certificate_name": "귀금속가공기능사",
+    "jmcd": "7460"
+  },
+  {
+    "certificate_id": 372,
+    "certificate_name": "금속도장기능사",
+    "jmcd": "7450"
+  },
+  {
+    "certificate_id": 373,
+    "certificate_name": "금속재료시험기능사",
+    "jmcd": "6490"
+  },
+  {
+    "certificate_id": 374,
+    "certificate_name": "금속재창호기능사",
+    "jmcd": "7102"
+  },
+  {
+    "certificate_id": 375,
+    "certificate_name": "금형기능사",
+    "jmcd": "6105"
+  },
+  {
+    "certificate_id": 376,
+    "certificate_name": "기계가공조립기능사",
+    "jmcd": "6042"
+  },
+  {
+    "certificate_id": 377,
+    "certificate_name": "기중기운전기능사",
+    "jmcd": "7861"
+  },
+  {
+    "certificate_id": 378,
+    "certificate_name": "남성복기능사",
+    "jmcd": "7931"
+  },
+  {
+    "certificate_id": 379,
+    "certificate_name": "농기계운전기능사",
+    "jmcd": "6301"
+  },
+  {
+    "certificate_id": 380,
+    "certificate_name": "농기계정비기능사",
+    "jmcd": "6300"
+  },
+  {
+    "certificate_id": 381,
+    "certificate_name": "도배기능사",
+    "jmcd": "7180"
+  },
+  {
+    "certificate_id": 382,
+    "certificate_name": "도자공예기능사",
+    "jmcd": "7890"
+  },
+  {
+    "certificate_id": 383,
+    "certificate_name": "도화기능사",
+    "jmcd": "7660"
+  },
+  {
+    "certificate_id": 384,
+    "certificate_name": "떡제조기능사",
+    "jmcd": "7992"
+  },
+  {
+    "certificate_id": 385,
+    "certificate_name": "로더운전기능사",
+    "jmcd": "7866"
+  },
+  {
+    "certificate_id": 386,
+    "certificate_name": "롤러운전기능사",
+    "jmcd": "7871"
+  },
+  {
+    "certificate_id": 387,
+    "certificate_name": "메카트로닉스기능사",
+    "jmcd": "6903"
+  },
+  {
+    "certificate_id": 388,
+    "certificate_name": "모터그레이더운전기능사",
+    "jmcd": "7872"
+  },
+  {
+    "certificate_id": 389,
+    "certificate_name": "목공예기능사",
+    "jmcd": "7480"
+  },
+  {
+    "certificate_id": 390,
+    "certificate_name": "목재가공기능사",
+    "jmcd": "7645"
+  },
+  {
+    "certificate_id": 391,
+    "certificate_name": "목재창호기능사",
+    "jmcd": "7101"
+  },
+  {
+    "certificate_id": 392,
+    "certificate_name": "목질재료기능사",
+    "jmcd": "7643"
+  },
+  {
+    "certificate_id": 393,
+    "certificate_name": "미용사(네일)",
+    "jmcd": "7957"
+  },
+  {
+    "certificate_id": 394,
+    "certificate_name": "미용사(메이크업)",
+    "jmcd": "7967"
+  },
+  {
+    "certificate_id": 395,
+    "certificate_name": "미용사(일반)",
+    "jmcd": "7937"
+  },
+  {
+    "certificate_id": 396,
+    "certificate_name": "미용사(피부)",
+    "jmcd": "7947"
+  },
+  {
+    "certificate_id": 397,
+    "certificate_name": "미장기능사",
+    "jmcd": "7110"
+  },
+  {
+    "certificate_id": 398,
+    "certificate_name": "반도체설비보전기능사",
+    "jmcd": "6033"
+  },
+  {
+    "certificate_id": 399,
+    "certificate_name": "방사선비파괴검사기능사",
+    "jmcd": "7471"
+  },
+  {
+    "certificate_id": 400,
+    "certificate_name": "방수기능사",
+    "jmcd": "7030"
+  },
+  {
+    "certificate_id": 401,
+    "certificate_name": "배관기능사",
+    "jmcd": "6213"
+  },
+  {
+    "certificate_id": 402,
+    "certificate_name": "버섯종균기능사",
+    "jmcd": "7631"
+  },
+  {
+    "certificate_id": 403,
+    "certificate_name": "보석가공기능사",
+    "jmcd": "7889"
+  },
+  {
+    "certificate_id": 404,
+    "certificate_name": "보석감정사",
+    "jmcd": "7980"
+  },
+  {
+    "certificate_id": 405,
+    "certificate_name": "복어조리기능사",
+    "jmcd": "7914"
+  },
+  {
+    "certificate_id": 406,
+    "certificate_name": "불도저운전기능사",
+    "jmcd": "7863"
+  },
+  {
+    "certificate_id": 407,
+    "certificate_name": "비계기능사",
+    "jmcd": "7120"
+  },
+  {
+    "certificate_id": 408,
+    "certificate_name": "사진기능사",
+    "jmcd": "7795"
+  },
+  {
+    "certificate_id": 409,
+    "certificate_name": "사출금형기능사보",
+    "jmcd": "8090"
+  },
+  {
+    "certificate_id": 410,
+    "certificate_name": "산림기능사",
+    "jmcd": "7632"
+  },
+  {
+    "certificate_id": 411,
+    "certificate_name": "석공기능사",
+    "jmcd": "6990"
+  },
+  {
+    "certificate_id": 412,
+    "certificate_name": "석공예기능사",
+    "jmcd": "6792"
+  },
+  {
+    "certificate_id": 413,
+    "certificate_name": "선박기관정비기능사",
+    "jmcd": "6960"
+  },
+  {
+    "certificate_id": 414,
+    "certificate_name": "선체건조기능사",
+    "jmcd": "6920"
+  },
+  {
+    "certificate_id": 415,
+    "certificate_name": "선체설계기능사",
+    "jmcd": "6910"
+  },
+  {
+    "certificate_id": 416,
+    "certificate_name": "설비보전기능사",
+    "jmcd": "6837"
+  },
+  {
+    "certificate_id": 417,
+    "certificate_name": "세탁기능사",
+    "jmcd": "7960"
+  },
+  {
+    "certificate_id": 418,
+    "certificate_name": "수산양식기능사",
+    "jmcd": "7700"
+  },
+  {
+    "certificate_id": 419,
+    "certificate_name": "스마트공장기능사",
+    "jmcd": "9771"
+  },
+  {
+    "certificate_id": 420,
+    "certificate_name": "승강기기능사",
+    "jmcd": "7940"
+  },
+  {
+    "certificate_id": 421,
+    "certificate_name": "식육처리기능사",
+    "jmcd": "7482"
+  },
+  {
+    "certificate_id": 422,
+    "certificate_name": "식품가공기능사",
+    "jmcd": "7591"
+  },
+  {
+    "certificate_id": 423,
+    "certificate_name": "신발제조기능사",
+    "jmcd": "7904"
+  },
+  {
+    "certificate_id": 424,
+    "certificate_name": "신재생에너지발전설비기능사(태양광)",
+    "jmcd": "7114"
+  },
+  {
+    "certificate_id": 425,
+    "certificate_name": "실내건축기능사",
+    "jmcd": "7152"
+  },
+  {
+    "certificate_id": 426,
+    "certificate_name": "아스팔트피니셔운전기능사",
+    "jmcd": "7873"
+  },
+  {
+    "certificate_id": 427,
+    "certificate_name": "압연기능사",
+    "jmcd": "6543"
+  },
+  {
+    "certificate_id": 428,
+    "certificate_name": "양식조리기능사",
+    "jmcd": "7911"
+  },
+  {
+    "certificate_id": 429,
+    "certificate_name": "양화장치운전기능사",
+    "jmcd": "7930"
+  },
+  {
+    "certificate_id": 430,
+    "certificate_name": "에너지관리기능사",
+    "jmcd": "7761"
+  },
+  {
+    "certificate_id": 431,
+    "certificate_name": "여성복기능사",
+    "jmcd": "7932"
+  },
+  {
+    "certificate_id": 432,
+    "certificate_name": "열처리기능사",
+    "jmcd": "6420"
+  },
+  {
+    "certificate_id": 433,
+    "certificate_name": "염색기능사(날염)",
+    "jmcd": "7302"
+  },
+  {
+    "certificate_id": 434,
+    "certificate_name": "염색기능사(침염)",
+    "jmcd": "7301"
+  },
+  {
+    "certificate_id": 435,
+    "certificate_name": "온수온돌기능사",
+    "jmcd": "7161"
+  },
+  {
+    "certificate_id": 436,
+    "certificate_name": "원예기능사",
+    "jmcd": "7901"
+  },
+  {
+    "certificate_id": 437,
+    "certificate_name": "웹디자인개발기능사",
+    "jmcd": "7798"
+  },
+  {
+    "certificate_id": 438,
+    "certificate_name": "위험물기능사",
+    "jmcd": "6697"
+  },
+  {
+    "certificate_id": 439,
+    "certificate_name": "유기농업기능사",
+    "jmcd": "6592"
+  },
+  {
+    "certificate_id": 440,
+    "certificate_name": "유리시공기능사",
+    "jmcd": "7151"
+  },
+  {
+    "certificate_id": 441,
+    "certificate_name": "의료전자기능사",
+    "jmcd": "6176"
+  },
+  {
+    "certificate_id": 442,
+    "certificate_name": "이산화탄소가스아크용접기능사",
+    "jmcd": "6225"
+  },
+  {
+    "certificate_id": 443,
+    "certificate_name": "이용사",
+    "jmcd": "7908"
+  },
+  {
+    "certificate_id": 444,
+    "certificate_name": "인쇄기능사",
+    "jmcd": "7524"
+  },
+  {
+    "certificate_id": 445,
+    "certificate_name": "일식조리기능사",
+    "jmcd": "7912"
+  },
+  {
+    "certificate_id": 446,
+    "certificate_name": "임업종묘기능사",
+    "jmcd": "7630"
+  },
+  {
+    "certificate_id": 447,
+    "certificate_name": "자기비파괴검사기능사",
+    "jmcd": "7473"
+  },
+  {
+    "certificate_id": 448,
+    "certificate_name": "자동차보수도장기능사",
+    "jmcd": "6836"
+  },
+  {
+    "certificate_id": 449,
+    "certificate_name": "자동차정비기능사",
+    "jmcd": "6281"
+  },
+  {
+    "certificate_id": 450,
+    "certificate_name": "자동차차체수리기능사",
+    "jmcd": "6285"
+  },
+  {
+    "certificate_id": 451,
+    "certificate_name": "자동화설비기능사",
+    "jmcd": "6415"
+  },
+  {
+    "certificate_id": 452,
+    "certificate_name": "잠수기능사",
+    "jmcd": "7612"
+  },
+  {
+    "certificate_id": 453,
+    "certificate_name": "전기기능사",
+    "jmcd": "7780"
+  },
+  {
+    "certificate_id": 454,
+    "certificate_name": "전산응용건축제도기능사",
+    "jmcd": "7061"
+  },
+  {
+    "certificate_id": 455,
+    "certificate_name": "전산응용기계제도기능사",
+    "jmcd": "6151"
+  },
+  {
+    "certificate_id": 456,
+    "certificate_name": "전산응용토목제도기능사",
+    "jmcd": "7072"
+  },
+  {
+    "certificate_id": 457,
+    "certificate_name": "전자계산기기능사",
+    "jmcd": "6801"
+  },
+  {
+    "certificate_id": 458,
+    "certificate_name": "전자기능사",
+    "jmcd": "6790"
+  },
+  {
+    "certificate_id": 459,
+    "certificate_name": "전자부품장착기능사",
+    "jmcd": "6835"
+  },
+  {
+    "certificate_id": 460,
+    "certificate_name": "전자출판기능사",
+    "jmcd": "6791"
+  },
+  {
+    "certificate_id": 461,
+    "certificate_name": "전자캐드기능사",
+    "jmcd": "6785"
+  },
+  {
+    "certificate_id": 462,
+    "certificate_name": "정밀측정기능사",
+    "jmcd": "6120"
+  },
+  {
+    "certificate_id": 463,
+    "certificate_name": "정보기기운용기능사",
+    "jmcd": "6892"
+  },
+  {
+    "certificate_id": 464,
+    "certificate_name": "정보처리기능사",
+    "jmcd": "6921"
+  },
+  {
+    "certificate_id": 465,
+    "certificate_name": "제강기능사",
+    "jmcd": "6515"
+  },
+  {
+    "certificate_id": 466,
+    "certificate_name": "제과기능사",
+    "jmcd": "7892"
+  },
+  {
+    "certificate_id": 467,
+    "certificate_name": "제빵기능사",
+    "jmcd": "7893"
+  },
+  {
+    "certificate_id": 468,
+    "certificate_name": "제선기능사",
+    "jmcd": "6500"
+  },
+  {
+    "certificate_id": 469,
+    "certificate_name": "제품응용모델링기능사",
+    "jmcd": "6793"
+  },
+  {
+    "certificate_id": 470,
+    "certificate_name": "조경기능사",
+    "jmcd": "7900"
+  },
+  {
+    "certificate_id": 471,
+    "certificate_name": "조적기능사",
+    "jmcd": "7070"
+  },
+  {
+    "certificate_id": 472,
+    "certificate_name": "조주기능사",
+    "jmcd": "7916"
+  },
+  {
+    "certificate_id": 473,
+    "certificate_name": "종자기능사",
+    "jmcd": "7620"
+  },
+  {
+    "certificate_id": 474,
+    "certificate_name": "주조기능사",
+    "jmcd": "6461"
+  },
+  {
+    "certificate_id": 475,
+    "certificate_name": "중식조리기능사",
+    "jmcd": "7913"
+  },
+  {
+    "certificate_id": 476,
+    "certificate_name": "지게차운전기능사",
+    "jmcd": "7875"
+  },
+  {
+    "certificate_id": 477,
+    "certificate_name": "지도제작기능사",
+    "jmcd": "7680"
+  },
+  {
+    "certificate_id": 478,
+    "certificate_name": "지적기능사",
+    "jmcd": "7650"
+  },
+  {
+    "certificate_id": 479,
+    "certificate_name": "천공기운전기능사",
+    "jmcd": "7483"
+  },
+  {
+    "certificate_id": 480,
+    "certificate_name": "천장크레인운전기능사",
+    "jmcd": "7864"
+  },
+  {
+    "certificate_id": 481,
+    "certificate_name": "철근기능사",
+    "jmcd": "7080"
+  },
+  {
+    "certificate_id": 482,
+    "certificate_name": "철도전기신호기능사",
+    "jmcd": "6772"
+  },
+  {
+    "certificate_id": 483,
+    "certificate_name": "철도차량정비기능사",
+    "jmcd": "6352"
+  },
+  {
+    "certificate_id": 484,
+    "certificate_name": "철도토목기능사",
+    "jmcd": "7010"
+  },
+  {
+    "certificate_id": 485,
+    "certificate_name": "초음파비파괴검사기능사",
+    "jmcd": "7472"
+  },
+  {
+    "certificate_id": 486,
+    "certificate_name": "축로기능사",
+    "jmcd": "6381"
+  },
+  {
+    "certificate_id": 487,
+    "certificate_name": "축산기능사",
+    "jmcd": "7481"
+  },
+  {
+    "certificate_id": 488,
+    "certificate_name": "측량기능사",
+    "jmcd": "6980"
+  },
+  {
+    "certificate_id": 489,
+    "certificate_name": "침투비파괴검사기능사",
+    "jmcd": "7474"
+  },
+  {
+    "certificate_id": 490,
+    "certificate_name": "컨테이너크레인운전기능사",
+    "jmcd": "7835"
+  },
+  {
+    "certificate_id": 491,
+    "certificate_name": "컴퓨터그래픽기능사",
+    "jmcd": "7796"
+  },
+  {
+    "certificate_id": 492,
+    "certificate_name": "컴퓨터응용밀링기능사",
+    "jmcd": "6032"
+  },
+  {
+    "certificate_id": 493,
+    "certificate_name": "컴퓨터응용선반기능사",
+    "jmcd": "6012"
+  },
+  {
+    "certificate_id": 494,
+    "certificate_name": "콘크리트기능사",
+    "jmcd": "7020"
+  },
+  {
+    "certificate_id": 495,
+    "certificate_name": "타워크레인운전기능사",
+    "jmcd": "7834"
+  },
+  {
+    "certificate_id": 496,
+    "certificate_name": "타일기능사",
+    "jmcd": "7210"
+  },
+  {
+    "certificate_id": 497,
+    "certificate_name": "판금제관기능사",
+    "jmcd": "6175"
+  },
+  {
+    "certificate_id": 498,
+    "certificate_name": "펄프종이제조기능사",
+    "jmcd": "7646"
+  },
+  {
+    "certificate_id": 499,
+    "certificate_name": "표면처리기능사",
+    "jmcd": "6480"
+  },
+  {
+    "certificate_id": 500,
+    "certificate_name": "프레스금형기능사보",
+    "jmcd": "8080"
+  },
+  {
+    "certificate_id": 501,
+    "certificate_name": "플라스틱창호기능사",
+    "jmcd": "7103"
+  },
+  {
+    "certificate_id": 502,
+    "certificate_name": "피복아크용접기능사",
+    "jmcd": "6223"
+  },
+  {
+    "certificate_id": 503,
+    "certificate_name": "피아노조율기능사",
+    "jmcd": "7917"
+  },
+  {
+    "certificate_id": 504,
+    "certificate_name": "한복기능사",
+    "jmcd": "7723"
+  },
+  {
+    "certificate_id": 505,
+    "certificate_name": "한식조리기능사",
+    "jmcd": "7910"
+  },
+  {
+    "certificate_id": 506,
+    "certificate_name": "항공기정비기능사",
+    "jmcd": "6288"
+  },
+  {
+    "certificate_id": 507,
+    "certificate_name": "항공사진기능사",
+    "jmcd": "7670"
+  },
+  {
+    "certificate_id": 508,
+    "certificate_name": "항공전기·전자정비기능사",
+    "jmcd": "6289"
+  },
+  {
+    "certificate_id": 509,
+    "certificate_name": "항로표지기능사",
+    "jmcd": "6351"
+  },
+  {
+    "certificate_id": 510,
+    "certificate_name": "화약취급기능사",
+    "jmcd": "7970"
+  },
+  {
+    "certificate_id": 511,
+    "certificate_name": "화학분석기능사",
+    "jmcd": "6560"
+  },
+  {
+    "certificate_id": 512,
+    "certificate_name": "화훼장식기능사",
+    "jmcd": "7625"
+  },
+  {
+    "certificate_id": 513,
+    "certificate_name": "환경기능사",
+    "jmcd": "7918"
+  },
+  {
+    "certificate_id": 514,
+    "certificate_name": "공인노무사",
+    "jmcd": "9500"
+  },
+  {
+    "certificate_id": 515,
+    "certificate_name": "가맹거래사",
+    "jmcd": "9503"
+  },
+  {
+    "certificate_id": 516,
+    "certificate_name": "공인중개사",
+    "jmcd": "9630"
+  },
+  {
+    "certificate_id": 517,
+    "certificate_name": "기계경비지도사",
+    "jmcd": "9502"
+  },
+  {
+    "certificate_id": 518,
+    "certificate_name": "일반경비지도사",
+    "jmcd": "9501"
+  },
+  {
+    "certificate_id": 519,
+    "certificate_name": "세무사",
+    "jmcd": "9641"
+  },
+  {
+    "certificate_id": 520,
+    "certificate_name": "관세사",
+    "jmcd": "9640"
+  },
+  {
+    "certificate_id": 521,
+    "certificate_name": "외국어번역행정사",
+    "jmcd": "9722"
+  },
+  {
+    "certificate_id": 522,
+    "certificate_name": "일반행정사",
+    "jmcd": "9721"
+  },
+  {
+    "certificate_id": 523,
+    "certificate_name": "해사행정사",
+    "jmcd": "9723"
+  },
+  {
+    "certificate_id": 524,
+    "certificate_name": "소방안전교육사",
+    "jmcd": "9657"
+  },
+  {
+    "certificate_id": 525,
+    "certificate_name": "소방시설관리사",
+    "jmcd": "9658"
+  },
+  {
+    "certificate_id": 526,
+    "certificate_name": "박물관및미술관준학예사",
+    "jmcd": "9659"
+  },
+  {
+    "certificate_id": 527,
+    "certificate_name": "한국어교육능력검정시험",
+    "jmcd": "9660"
+  },
+  {
+    "certificate_id": 528,
+    "certificate_name": "관광통역안내사(독어)",
+    "jmcd": "9625"
+  },
+  {
+    "certificate_id": 529,
+    "certificate_name": "관광통역안내사(러시아어)",
+    "jmcd": "9627"
+  },
+  {
+    "certificate_id": 530,
+    "certificate_name": "관광통역안내사(말레이/인도네시아어)",
+    "jmcd": "9634"
+  },
+  {
+    "certificate_id": 531,
+    "certificate_name": "관광통역안내사(베트남어)",
+    "jmcd": "9633"
+  },
+  {
+    "certificate_id": 532,
+    "certificate_name": "관광통역안내사(불어)",
+    "jmcd": "9624"
+  },
+  {
+    "certificate_id": 533,
+    "certificate_name": "관광통역안내사(스페인어)",
+    "jmcd": "9626"
+  },
+  {
+    "certificate_id": 534,
+    "certificate_name": "관광통역안내사(아랍어)",
+    "jmcd": "9635"
+  },
+  {
+    "certificate_id": 535,
+    "certificate_name": "관광통역안내사(영어)",
+    "jmcd": "9661"
+  },
+  {
+    "certificate_id": 536,
+    "certificate_name": "관광통역안내사(이탈리아어)",
+    "jmcd": "9631"
+  },
+  {
+    "certificate_id": 537,
+    "certificate_name": "관광통역안내사(일본어)",
+    "jmcd": "9628"
+  },
+  {
+    "certificate_id": 538,
+    "certificate_name": "관광통역안내사(중국어)",
+    "jmcd": "9629"
+  },
+  {
+    "certificate_id": 539,
+    "certificate_name": "관광통역안내사(태국어)",
+    "jmcd": "9632"
+  },
+  {
+    "certificate_id": 540,
+    "certificate_name": "호텔관리사",
+    "jmcd": "9663"
+  },
+  {
+    "certificate_id": 541,
+    "certificate_name": "호텔경영사",
+    "jmcd": "9662"
+  },
+  {
+    "certificate_id": 542,
+    "certificate_name": "국내여행안내사",
+    "jmcd": "9664"
+  },
+  {
+    "certificate_id": 543,
+    "certificate_name": "호텔서비스사",
+    "jmcd": "9665"
+  },
+  {
+    "certificate_id": 544,
+    "certificate_name": "국가유산수리기술자(단청)",
+    "jmcd": "9667"
+  },
+  {
+    "certificate_id": 545,
+    "certificate_name": "국가유산수리기술자(보수)",
+    "jmcd": "9666"
+  },
+  {
+    "certificate_id": 546,
+    "certificate_name": "국가유산수리기술자(보존과학)",
+    "jmcd": "9670"
+  },
+  {
+    "certificate_id": 547,
+    "certificate_name": "국가유산수리기술자(식물보호)",
+    "jmcd": "9671"
+  },
+  {
+    "certificate_id": 548,
+    "certificate_name": "국가유산수리기술자(실측설계)",
+    "jmcd": "9668"
+  },
+  {
+    "certificate_id": 549,
+    "certificate_name": "국가유산수리기술자(조경)",
+    "jmcd": "9669"
+  },
+  {
+    "certificate_id": 550,
+    "certificate_name": "국가유산수리기능자(가공석공)",
+    "jmcd": "9674"
+  },
+  {
+    "certificate_id": 551,
+    "certificate_name": "국가유산수리기능자(대목수)",
+    "jmcd": "9672"
+  },
+  {
+    "certificate_id": 552,
+    "certificate_name": "국가유산수리기능자(도금공)",
+    "jmcd": "9685"
+  },
+  {
+    "certificate_id": 553,
+    "certificate_name": "국가유산수리기능자(드잡이공)",
+    "jmcd": "9677"
+  },
+  {
+    "certificate_id": 554,
+    "certificate_name": "국가유산수리기능자(모사공)",
+    "jmcd": "9706"
+  },
+  {
+    "certificate_id": 555,
+    "certificate_name": "국가유산수리기능자(목조각공)",
+    "jmcd": "9682"
+  },
+  {
+    "certificate_id": 556,
+    "certificate_name": "국가유산수리기능자(박제및표본제작공)",
+    "jmcd": "9693"
+  },
+  {
+    "certificate_id": 557,
+    "certificate_name": "국가유산수리기능자(번와와공)",
+    "jmcd": "9678"
+  },
+  {
+    "certificate_id": 558,
+    "certificate_name": "국가유산수리기능자(보존처리공)",
+    "jmcd": "9690"
+  },
+  {
+    "certificate_id": 559,
+    "certificate_name": "국가유산수리기능자(석조각공)",
+    "jmcd": "9683"
+  },
+  {
+    "certificate_id": 560,
+    "certificate_name": "국가유산수리기능자(세척공)",
+    "jmcd": "9688"
+  },
+  {
+    "certificate_id": 561,
+    "certificate_name": "국가유산수리기능자(소목수)",
+    "jmcd": "9673"
+  },
+  {
+    "certificate_id": 562,
+    "certificate_name": "국가유산수리기능자(식물보호공)",
+    "jmcd": "9691"
+  },
+  {
+    "certificate_id": 563,
+    "certificate_name": "국가유산수리기능자(실측설계사보)",
+    "jmcd": "9692"
+  },
+  {
+    "certificate_id": 564,
+    "certificate_name": "국가유산수리기능자(쌓기석공)",
+    "jmcd": "9675"
+  },
+  {
+    "certificate_id": 565,
+    "certificate_name": "국가유산수리기능자(온돌공)",
+    "jmcd": "9694"
+  },
+  {
+    "certificate_id": 566,
+    "certificate_name": "국가유산수리기능자(제작와공)",
+    "jmcd": "9679"
+  },
+  {
+    "certificate_id": 567,
+    "certificate_name": "국가유산수리기능자(조경공)",
+    "jmcd": "9687"
+  },
+  {
+    "certificate_id": 568,
+    "certificate_name": "국가유산수리기능자(철물공)",
+    "jmcd": "9681"
+  },
+  {
+    "certificate_id": 569,
+    "certificate_name": "국가유산수리기능자(칠공)",
+    "jmcd": "9684"
+  },
+  {
+    "certificate_id": 570,
+    "certificate_name": "국가유산수리기능자(표구공)",
+    "jmcd": "9686"
+  },
+  {
+    "certificate_id": 571,
+    "certificate_name": "국가유산수리기능자(한식미장공)",
+    "jmcd": "9680"
+  },
+  {
+    "certificate_id": 572,
+    "certificate_name": "국가유산수리기능자(화공)",
+    "jmcd": "9676"
+  },
+  {
+    "certificate_id": 573,
+    "certificate_name": "국가유산수리기능자(훈증공)",
+    "jmcd": "9689"
+  },
+  {
+    "certificate_id": 574,
+    "certificate_name": "농산물품질관리사",
+    "jmcd": "9695"
+  },
+  {
+    "certificate_id": 575,
+    "certificate_name": "경매사(수산)",
+    "jmcd": "9697"
+  },
+  {
+    "certificate_id": 576,
+    "certificate_name": "경매사(약용)",
+    "jmcd": "9700"
+  },
+  {
+    "certificate_id": 577,
+    "certificate_name": "경매사(양곡)",
+    "jmcd": "9728"
+  },
+  {
+    "certificate_id": 578,
+    "certificate_name": "경매사(청과)",
+    "jmcd": "9696"
+  },
+  {
+    "certificate_id": 579,
+    "certificate_name": "경매사(축산)",
+    "jmcd": "9698"
+  },
+  {
+    "certificate_id": 580,
+    "certificate_name": "경매사(화훼)",
+    "jmcd": "9699"
+  },
+  {
+    "certificate_id": 581,
+    "certificate_name": "경영지도사(1차공통)",
+    "jmcd": "9705"
+  },
+  {
+    "certificate_id": 582,
+    "certificate_name": "경영지도사(마케팅)",
+    "jmcd": "9704"
+  },
+  {
+    "certificate_id": 583,
+    "certificate_name": "경영지도사(생산관리)",
+    "jmcd": "9703"
+  },
+  {
+    "certificate_id": 584,
+    "certificate_name": "경영지도사(인적자원관리)",
+    "jmcd": "9701"
+  },
+  {
+    "certificate_id": 585,
+    "certificate_name": "경영지도사(재무관리)",
+    "jmcd": "9702"
+  },
+  {
+    "certificate_id": 586,
+    "certificate_name": "기술지도사(1차공통)",
+    "jmcd": "9729"
+  },
+  {
+    "certificate_id": 587,
+    "certificate_name": "기술지도사(기술혁신관리)",
+    "jmcd": "9758"
+  },
+  {
+    "certificate_id": 588,
+    "certificate_name": "기술지도사(정보기술관리)",
+    "jmcd": "9759"
+  },
+  {
+    "certificate_id": 589,
+    "certificate_name": "변리사",
+    "jmcd": "9737"
+  },
+  {
+    "certificate_id": 590,
+    "certificate_name": "사회복지사 1급",
+    "jmcd": "9738"
+  },
+  {
+    "certificate_id": 591,
+    "certificate_name": "정수시설운영관리사1급",
+    "jmcd": "9739"
+  },
+  {
+    "certificate_id": 592,
+    "certificate_name": "정수시설운영관리사2급",
+    "jmcd": "9740"
+  },
+  {
+    "certificate_id": 593,
+    "certificate_name": "정수시설운영관리사3급",
+    "jmcd": "9741"
+  },
+  {
+    "certificate_id": 594,
+    "certificate_name": "산업안전지도사(건설안전)",
+    "jmcd": "9714"
+  },
+  {
+    "certificate_id": 595,
+    "certificate_name": "산업안전지도사(기계안전)",
+    "jmcd": "9711"
+  },
+  {
+    "certificate_id": 596,
+    "certificate_name": "산업안전지도사(전기안전)",
+    "jmcd": "9712"
+  },
+  {
+    "certificate_id": 597,
+    "certificate_name": "산업안전지도사(화공안전)",
+    "jmcd": "9713"
+  },
+  {
+    "certificate_id": 598,
+    "certificate_name": "산업보건지도사(산업위생공학)",
+    "jmcd": "9716"
+  },
+  {
+    "certificate_id": 599,
+    "certificate_name": "산업보건지도사(직업환경의학)",
+    "jmcd": "9715"
+  },
+  {
+    "certificate_id": 600,
+    "certificate_name": "주택관리사보",
+    "jmcd": "9744"
+  },
+  {
+    "certificate_id": 601,
+    "certificate_name": "감정평가사",
+    "jmcd": "9745"
+  },
+  {
+    "certificate_id": 602,
+    "certificate_name": "물류관리사",
+    "jmcd": "9746"
+  },
+  {
+    "certificate_id": 603,
+    "certificate_name": "검수사",
+    "jmcd": "9747"
+  },
+  {
+    "certificate_id": 604,
+    "certificate_name": "검량사",
+    "jmcd": "9748"
+  },
+  {
+    "certificate_id": 605,
+    "certificate_name": "감정사",
+    "jmcd": "9749"
+  },
+  {
+    "certificate_id": 606,
+    "certificate_name": "1급 청소년지도사",
+    "jmcd": "9750"
+  },
+  {
+    "certificate_id": 607,
+    "certificate_name": "2급 청소년지도사",
+    "jmcd": "9751"
+  },
+  {
+    "certificate_id": 608,
+    "certificate_name": "3급 청소년지도사",
+    "jmcd": "9752"
+  },
+  {
+    "certificate_id": 609,
+    "certificate_name": "1급 청소년상담사",
+    "jmcd": "9753"
+  },
+  {
+    "certificate_id": 610,
+    "certificate_name": "2급 청소년상담사",
+    "jmcd": "9754"
+  },
+  {
+    "certificate_id": 611,
+    "certificate_name": "3급 청소년상담사",
+    "jmcd": "9755"
+  },
+  {
+    "certificate_id": 612,
+    "certificate_name": "수산물품질관리사",
+    "jmcd": "9762"
+  },
+  {
+    "certificate_id": 613,
+    "certificate_name": "손해평가사",
+    "jmcd": "9763"
+  }
+]

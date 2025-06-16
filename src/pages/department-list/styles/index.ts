@@ -1,0 +1,1 @@
+export { default as deptListStyles } from './department-list.module.css';

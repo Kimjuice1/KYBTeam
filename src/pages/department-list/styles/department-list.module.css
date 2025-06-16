@@ -1,0 +1,147 @@
+/* 메인 컨테이너 */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* 학부 리스트 */
+.facultyList {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 20px;
+}
+
+.facultyItem {
+    flex: 1;
+    min-width: 300px;
+    background-color: var(--surface-color);
+    border-radius: 8px;
+    box-shadow: 0 2px 4px var(--shadow-color);
+    padding: 15px;
+    transition: transform 0.2s ease;
+}
+
+.facultyItem:hover {
+    transform: translateY(-5px);
+}
+
+.facultyName {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: var(--primary-color);
+    padding-bottom: 10px;
+    border-bottom: 2px solid var(--secondary-color);
+    margin-bottom: 10px;
+}
+
+/* 학과 리스트 */
+.departmentList {
+    list-style: none;
+    padding: 0;
+}
+
+.departmentItem {
+    margin: 5px 0;
+}
+
+.departmentLink {
+    display: block;
+    padding: 8px 12px;
+    color: var(--primary-color);
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.2s;
+}
+
+.departmentLink:hover {
+    background-color: var(--hover-color);
+}
+
+/* 로딩 스피너 */
+.loading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.loadingSpinner {
+    width: 40px;
+    height: 40px;
+    border: 4px solid rgba(0, 0, 0, 0.1);
+    border-radius: 50%;
+    border-top-color: var(--primary-color);
+    animation: spin 1s ease-in-out infinite;
+    margin-bottom: 1rem;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/* 에러 상태 */
+.error {
+    text-align: center;
+    padding: 2rem;
+    color: #e74c3c;
+    background-color: #fdf3f2;
+    border-radius: 8px;
+    margin: 1rem 0;
+}
+
+.retryButton {
+    background-color: var(--primary-color);
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 1rem;
+    transition: background-color 0.2s;
+}
+
+.retryButton:hover {
+    background-color: var(--button-hover);
+}
+
+/* 빈 상태 */
+.emptyState {
+    text-align: center;
+    padding: 2rem;
+    color: var(--text-secondary);
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    margin: 1rem 0;
+}
+
+/* 반응형 디자인 */
+@media (max-width: 1024px) {
+    .container {
+        max-width: 100%;
+        padding: 15px;
+    }
+
+    .facultyItem {
+        min-width: 280px;
+    }
+}
+
+@media (max-width: 768px) {
+    .facultyList {
+        flex-direction: column;
+    }
+
+    .facultyItem {
+        min-width: 100%;
+    }
+
+    .departmentLink {
+        padding: 12px; /* 터치 영역 확대 */
+    }
+}

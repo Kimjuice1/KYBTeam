@@ -1,0 +1,9 @@
+package-lock.json text eol=lf
+package.json text eol=lf
+src/App.css text eol=lf
+src/index.css text eol=lf
+eslint.config.js text eol=lf
+index.html text eol=lf
+src/App.jsx text eol=lf
+src/main.jsx text eol=lf
+vite.config.ts text eol=lf

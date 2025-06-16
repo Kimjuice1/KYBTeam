@@ -1,0 +1,1 @@
+export { DepartmentList } from './DepartmentList.tsx'

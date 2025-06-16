@@ -1,0 +1,260 @@
+[
+  {
+    "parent_type": "faculty",
+    "parent_id": 4,
+    "parent_name": "건강생활학부",
+    "child": [
+      {
+        "child_type": "major",
+        "child_id": 17,
+        "child_name": "유한바이오제약전공",
+        "map_id": 40
+      },
+      {
+        "child_type": "major",
+        "child_id": 18,
+        "child_name": "유한생명화공전공",
+        "map_id": 41
+      },
+      {
+        "child_type": "major",
+        "child_id": 19,
+        "child_name": "피부메이크업전공",
+        "map_id": 42
+      },
+      {
+        "child_type": "major",
+        "child_id": 20,
+        "child_name": "뷰티화장품전공",
+        "map_id": 43
+      },
+      {
+        "child_type": "major",
+        "child_id": 21,
+        "child_name": "사회복지전공",
+        "map_id": 44
+      },
+      {
+        "child_type": "major",
+        "child_id": 22,
+        "child_name": "스포츠재활전공",
+        "map_id": 45
+      },
+      {
+        "child_type": "major",
+        "child_id": 23,
+        "child_name": "반려동물산업전공",
+        "map_id": 46
+      },
+      {
+        "child_type": "major",
+        "child_id": 24,
+        "child_name": "호텔조리전공",
+        "map_id": 47
+      },
+      {
+        "child_type": "major",
+        "child_id": 25,
+        "child_name": "카페베이커리전공",
+        "map_id": 48
+      }
+    ]
+  },
+  {
+    "parent_type": "faculty",
+    "parent_id": 5,
+    "parent_name": "비즈니스학부",
+    "child": [
+      {
+        "child_type": "major",
+        "child_id": 26,
+        "child_name": "호텔관광전공",
+        "map_id": 49
+      },
+      {
+        "child_type": "major",
+        "child_id": 27,
+        "child_name": "일본비즈니스전공",
+        "map_id": 50
+      },
+      {
+        "child_type": "major",
+        "child_id": 28,
+        "child_name": "경영정보전공",
+        "map_id": 51
+      },
+      {
+        "child_type": "major",
+        "child_id": 29,
+        "child_name": "세무회계전공",
+        "map_id": 52
+      },
+      {
+        "child_type": "department",
+        "child_id": 20,
+        "child_name": "항공서비스학과",
+        "map_id": 53
+      }
+    ]
+  },
+  {
+    "parent_type": "faculty",
+    "parent_id": 2,
+    "parent_name": "디자인문화학부",
+    "child": [
+      {
+        "child_type": "major",
+        "child_id": 8,
+        "child_name": "산업디자인전공",
+        "map_id": 26
+      },
+      {
+        "child_type": "major",
+        "child_id": 9,
+        "child_name": "시각디자인전공",
+        "map_id": 27
+      },
+      {
+        "child_type": "major",
+        "child_id": 10,
+        "child_name": "패션디자인전공",
+        "map_id": 28
+      },
+      {
+        "child_type": "major",
+        "child_id": 11,
+        "child_name": "실내건축전공",
+        "map_id": 29
+      },
+      {
+        "child_type": "major",
+        "child_id": 12,
+        "child_name": "애니메이션웹툰전공",
+        "map_id": 30
+      },
+      {
+        "child_type": "major",
+        "child_id": 13,
+        "child_name": "광고미디어전공",
+        "map_id": 31
+      },
+      {
+        "child_type": "major",
+        "child_id": 14,
+        "child_name": "방송영상전공",
+        "map_id": 32
+      },
+      {
+        "child_type": "major",
+        "child_id": 15,
+        "child_name": "방송문예창작전공",
+        "map_id": 33
+      },
+      {
+        "child_type": "major",
+        "child_id": 16,
+        "child_name": "방송연예전공",
+        "map_id": 34
+      }
+    ]
+  },
+  {
+    "parent_type": "department",
+    "parent_id": 1,
+    "parent_name": "자유전공학과",
+    "child": [
+      {
+        "child_type": "department",
+        "child_id": 1,
+        "child_name": "자유전공학과",
+        "map_id": 2
+      }
+    ]
+  },
+  {
+    "parent_type": "faculty",
+    "parent_id": 3,
+    "parent_name": "건강보건학부",
+    "child": [
+      {
+        "child_type": "department",
+        "child_id": 9,
+        "child_name": "식품영양학과",
+        "map_id": 35
+      },
+      {
+        "child_type": "department",
+        "child_id": 10,
+        "child_name": "보건의료행정학과",
+        "map_id": 36
+      },
+      {
+        "child_type": "department",
+        "child_id": 11,
+        "child_name": "작업치료학과",
+        "map_id": 37
+      },
+      {
+        "child_type": "department",
+        "child_id": 12,
+        "child_name": "반려동물보건학과",
+        "map_id": 38
+      },
+      {
+        "child_type": "department",
+        "child_id": 13,
+        "child_name": "응급구조과",
+        "map_id": 39
+      }
+    ]
+  },
+  {
+    "parent_type": "faculty",
+    "parent_id": 1,
+    "parent_name": "공학부",
+    "child": [
+      {
+        "child_type": "major",
+        "child_id": 1,
+        "child_name": "기계시스템전공",
+        "map_id": 19
+      },
+      {
+        "child_type": "major",
+        "child_id": 2,
+        "child_name": "소방설비안전전공",
+        "map_id": 20
+      },
+      {
+        "child_type": "major",
+        "child_id": 3,
+        "child_name": "전기공학전공",
+        "map_id": 21
+      },
+      {
+        "child_type": "major",
+        "child_id": 4,
+        "child_name": "전자공학전공",
+        "map_id": 22
+      },
+      {
+        "child_type": "major",
+        "child_id": 5,
+        "child_name": "컴퓨터소프트웨어전공",
+        "map_id": 23
+      },
+      {
+        "child_type": "major",
+        "child_id": 6,
+        "child_name": "게임콘텐츠전공",
+        "map_id": 24
+      },
+      {
+        "child_type": "major",
+        "child_id": 7,
+        "child_name": "인공지능전공",
+        "map_id": 25
+      }
+    ]
+  }
+]

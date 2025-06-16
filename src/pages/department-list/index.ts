@@ -1,0 +1,1 @@
+export { DepartmentListPage } from "./DepartmentListPage"
