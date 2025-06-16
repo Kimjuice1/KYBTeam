@@ -1,0 +1,132 @@
+/* 슬라이더 전체 컨테이너 */
+.slider-wrapper {
+    position: relative;
+    margin-top: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    width: 100%;
+    max-width: 100%;
+    padding: 0 40px; /* ← 좌우 여백 확보 */
+    box-sizing: border-box;
+}
+
+/* 슬라이드 트랙 (가로 슬라이드용) */
+.slider-track {
+    display: flex;
+    transition: transform 0.4s ease;
+    width: 100%;
+}
+
+/* 기본 슬라이드 스타일 */
+.slide {
+
+    flex: 0 0 100%;
+    opacity: 0.4;
+    transform: scale(0.95);
+    transition: all 0.4s ease;
+    padding: 20px;
+    border-radius: 12px;
+    background-color: #f4f4ff;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    box-sizing: border-box;
+    text-align: center;
+}
+
+/* 현재 중심 슬라이드 강조 */
+.slide.active {
+    opacity: 1;
+    transform: scale(1);
+    background-color: #ffffff;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+}
+
+/* 좌/우 슬라이드는 흐릿하게 */
+.slide.prev,
+.slide.next {
+    opacity: 0.4;
+
+}
+
+/* 제목 스타일 */
+.slide h3 {
+    font-size: 1.1rem;
+    margin-bottom: 12px;
+    color: #4b33d4;
+
+}
+
+/* 항목 목록 */
+.slide ol {
+    color: #333;
+    font-weight: 400;
+    opacity: 1;
+
+}
+
+/* 슬라이더 좌우 버튼 */
+.slider-arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(255, 255, 255, 0.8);  /* 연한 배경 */
+    border: none;
+    font-size: 2rem;
+    color: #555;
+    cursor: pointer;
+    z-index: 10;
+    padding: 4px 10px;
+    border-radius: 50%;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* 왼쪽 버튼 */
+.slider-arrow:first-of-type {
+    left: 10px;
+}
+
+/* 오른쪽 버튼 */
+.slider-arrow:last-of-type {
+    right: 10px;
+}
+
+.slider-arrow:hover {
+    color: #4b33d4;
+}
+
+/* 반응형 - 모바일에서 슬라이드는 하나만 보이고 2열 목록 */
+@media screen and (max-width: 480px) {
+    .slide {
+        padding: 8px 6px;
+        min-height: 120px;
+        border-radius: 6px;
+    }
+
+    .slide h3 {
+        font-size: 1rem;
+        margin-bottom: 6px;
+    }
+
+    .slide ol {
+        font-size: 0.8rem;
+        gap: 2px 40px;
+        display: grid;
+        grid-template-columns: repeat(2, auto);
+        justify-content: center;
+        justify-items: start;
+        padding-left: 0;
+        margin: 0;
+    }
+
+    .slide li {
+        line-height: 1.2;
+        margin-left: 1em;
+        list-style: decimal;
+    }
+
+    .slider-arrow {
+        font-size: 1.2rem;
+        padding: 2px 4px;
+    }
+}

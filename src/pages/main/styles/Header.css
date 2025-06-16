@@ -1,0 +1,158 @@
+/* header.css */
+
+/* 고정 헤더 */
+
+.header-wrapper {
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #fff;
+    border-bottom: 1px solid #eee;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left:10%;
+
+}
+
+
+.logo {
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #5c39cc;
+    margin-right: 20px;  /* 로고와 검색창 간격 조정 */
+}
+.search-box span{
+    padding: 1px 20px;
+}
+
+.search-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 2px solid #a855f7;
+    border-radius: 30px;
+    max-width: 600px;
+
+}
+
+.search-label {
+    margin-right: 8px;
+    color: #666;
+    font-weight: 500;
+}
+
+.search-input {
+    border: none;
+    outline: none;
+    font-size: 14px;
+    padding: 8px;
+}
+
+.search-btn {
+    background-color: #a855f7;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    padding: 8px;
+    cursor: pointer;
+
+    margin-left: 10px; /* 버튼과 입력창 간의 간격을 주고 싶다면 margin-left 사용 */
+}
+
+/* 네비게이션 */
+.nav {
+
+    padding: 10px 20px;
+    text-align: center;
+
+}
+
+.nav ul {
+    display: flex;
+    justify-content: flex-start; /* 왼쪽 정렬 */
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    gap: 20px; /* 항목 사이 간격 */
+}
+
+
+.nav li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+
+}
+
+.nav li a:hover {
+    color: #a855f7;
+}
+
+@media screen and (max-width: 480px) {
+    .header-wrapper {
+        flex-direction: column;
+        align-items: center;
+        padding-left: 0;  /* 모바일에서 좌측 여백 제거 */
+    }
+
+    .logo {
+        font-size: 1rem;
+        align-self: center;
+        margin-top: 4px;
+    }
+
+    .search-box {
+
+        margin-top: 0.5rem;
+        margin-left: 0;
+    }
+
+    .search-input {
+        flex-grow: 1;
+        border: none;
+        outline: none;
+        font-size: 14px;
+        padding: 6px 8px;
+    }
+
+    .search-btn {
+        background-color: #a855f7;
+        color: white;
+        border: none;
+        border-radius: 50%;
+        padding: 6px;
+        cursor: pointer;
+    }
+
+    .nav {
+        margin: 0;
+    }
+
+    * {
+        box-sizing: border-box;
+        padding: 0;
+        margin: 0;
+    }
+
+    @keyframes slideUp {
+        from {
+            transform: translateY(100%);
+            opacity: 0;
+        }
+        to {
+            transform: translateY(0%);
+            opacity: 1;
+        }
+    }
+
+    @media (max-width: 768px) {
+        .nav {
+            display: none;
+        }
+
+
+    }
+}

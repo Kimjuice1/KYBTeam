@@ -1,0 +1,80 @@
+/* 전체 카드 컨테이너 */
+.certificate-cards {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 항상 2개씩 배치 */
+    gap: 16px;  /* 카드 간의 간격 */
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+/* 카드 스타일 */
+.certificate-card-v2 {
+    background-color: #fff;
+    border-radius: 8px; /* 더 작은 모서리 */
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    height: 200px; /* 카드 크기 고정 */
+    max-width: 100%; /* 카드가 너무 커지지 않도록 제한 */
+}
+
+/* 카드 이미지 스타일 */
+.card-image-wrapper {
+    width: 100%;
+    height: 100px;  /* 이미지 영역 크기 작게 */
+    background-color: #e0e0e0; /* 배경색 (이미지 없을 때) */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-image-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* 이미지 비율 유지 */
+}
+
+/* 카드 내용 */
+.card-content {
+    padding: 10px; /* 내용 공간 작게 */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-grow: 1;
+}
+
+.card-title {
+    font-size: 0.9rem; /* 제목 크기 작게 */
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+.card-description {
+    font-size: 0.7rem; /* 설명 크기 작게 */
+    color: #555;
+    margin-bottom: 10px;
+    flex-grow: 1;
+}
+
+/* 버튼 스타일 */
+
+
+/* 반응형: 화면 크기에 맞게 카드 수 조정 */
+@media (max-width: 1024px) {
+    .certificate-cards {
+        grid-template-columns: repeat(2, 1fr); /* 여전히 2열 */
+    }
+}
+
+@media (max-width: 768px) {
+    .certificate-cards {
+        grid-template-columns: repeat(2, 1fr); /* 모바일에서도 2열 유지 */
+        gap: 8px; /* 간격 좁히기 */
+    }
+}
+
+
+

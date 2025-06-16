@@ -1,0 +1,40 @@
+.bottom-nav {
+    display: none; /* 기본 숨김 */
+}
+
+    @media (max-width: 768px) {
+        .bottom-nav {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background-color: white;
+            border-top: 1px solid #ddd;
+            padding: 8px 0;
+            z-index: 999;
+            font-size: 0.85rem;
+            animation: slideUp 0.4s ease-out;
+        }
+
+        .bottom-nav a {
+            text-decoration: none;
+            color: #333;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            font-size: 14px;
+        }
+
+
+        .bottom-nav .icon {
+            font-size: 20px;
+            margin-bottom: 3px;
+        }
+
+        .bottom-nav a:hover {
+            color: #a855f7;
+        }
+    }

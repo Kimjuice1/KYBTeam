@@ -1,0 +1,81 @@
+/* src/components/CertificateList.css */
+
+.certificate-list {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+    position: relative;  /* 페이지네이션을 적절히 띄우기 위한 상대적 위치 설정 */
+}
+
+/* 카드 그리드 */
+.certificate-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* 카드 그리드 */
+    gap: 20px;
+    margin-bottom: 50px;
+    width: 100%;
+}
+
+/* 페이지네이션 스타일 */
+.pagination {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    align-items: center;
+    margin-top: 20px; /* 페이지네이션과 카드 간 간격 */
+    width: 100%;
+    position: sticky;
+    bottom: 70px;  /* 네비게이션과 겹치지 않도록 여백 추가 */
+    z-index: 100;  /* 페이지네이션을 네비게이션 위로 띄우기 위해 높은 z-index 부여 */
+}
+
+/* 버튼들을 가로로 정렬 */
+.pagination button,
+.pagination span {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+/* 이전/다음 버튼 스타일 */
+.pagination button {
+    padding: 10px 20px;
+    background-color: #a855f7;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.pagination button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+/* 페이징 상태 텍스트 스타일 */
+.pagination span {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+/* 반응형 디자인 */
+@media (max-width: 768px) {
+    .certificate-cards {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 15px;
+    }
+}
+
+@media (max-width: 480px) {
+    .certificate-cards {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .pagination {
+
+        align-items: center;
+    }
+
+
+}
