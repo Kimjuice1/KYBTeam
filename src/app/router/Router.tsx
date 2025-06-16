@@ -1,11 +1,12 @@
-import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom"
+import { BrowserRouter, Routes, Route, /*N8avigate*/ } from "react-router-dom"
 import { DepartmentListPage } from "@/pages/department-list"
+import {MainPage} from "@/pages/main/MainPage.tsx";
 
 export const Router = () => {
     return (
         <BrowserRouter>
             <Routes>
-                <Route path="/" element={<Navigate to="/departments" replace />} />
+                <Route path="/" element={<MainPage /> } />
                 <Route path="/departments" element={<DepartmentListPage />} />
                 {/* 추가 라우트 정의 */}
                 {/* <Route path="/departments/:id" element={<DepartmentDetailPage />} /> */}
