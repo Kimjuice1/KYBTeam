@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
         webView.setWebChromeClient(new WebChromeClient());
 
         // React PWA 사이트 주소 입력
-        webView.loadUrl("https://yuhan-cert.kr");
+        webView.loadUrl"https://android-react-kappa.vercel.app/");
     }
 
     @Override
